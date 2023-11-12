@@ -1,19 +1,19 @@
 {
-    "name": "lrmn",
+    "name": "vwln-correct_redirect_stats",
     "user": 717068268031967263,
     "board": "ortho",
     "keys": {
-        "q": {
+        "z": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "g": {
+        "w": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "g": {
             "row": 0,
             "col": 2,
             "finger": "LM"
@@ -23,12 +23,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "p": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "c": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -73,12 +73,12 @@
             "col": 3,
             "finger": "LI"
         },
-        ",": {
+        "v": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "w": {
+        ".": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -108,17 +108,17 @@
             "col": 0,
             "finger": "LP"
         },
-        "_": {
+        "c": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        ";": {
+        "m": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -128,7 +128,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        ",": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -143,22 +143,22 @@
             "col": 7,
             "finger": "RM"
         },
-        "'": {
+        ";": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "_": {
             "row": 2,
             "col": 9,
             "finger": "RP"
         },
-        "m": {
+        "q": {
             "row": 3,
             "col": 0,
             "finger": "RT"
         },
-        "n": {
+        "j": {
             "row": 3,
             "col": 1,
             "finger": "RT"

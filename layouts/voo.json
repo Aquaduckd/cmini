@@ -1,19 +1,19 @@
 {
-    "name": "xoe-wc",
+    "name": "voo",
     "user": 717068268031967263,
     "board": "ortho",
     "keys": {
-        "w": {
+        "b": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "g": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "g": {
+        "d": {
             "row": 0,
             "col": 2,
             "finger": "LM"
@@ -23,17 +23,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        ";": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "'": {
+        "j": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -73,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "v": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -103,12 +103,12 @@
             "col": 9,
             "finger": "RP"
         },
-        "b": {
+        "w": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "v": {
+        "c": {
             "row": 2,
             "col": 1,
             "finger": "LR"
@@ -118,7 +118,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "p": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -143,12 +143,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "j": {
+        "_": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "_": {
+        ";": {
             "row": 2,
             "col": 9,
             "finger": "RP"
