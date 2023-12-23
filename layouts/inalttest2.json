@@ -1,79 +1,99 @@
 {
-    "name": "taipo",
-    "user": 1085579430623199292,
+    "name": "inalttest2",
+    "user": 252155920157507584,
     "board": "ortho",
     "keys": {
-        "r": {
+        "m": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "b": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "n": {
+        "l": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "i": {
+        "v": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "\ud835\ude92": {
+        "z": {
+            "row": 0,
+            "col": 4,
+            "finger": "LI"
+        },
+        "q": {
+            "row": 0,
+            "col": 5,
+            "finger": "RI"
+        },
+        "p": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "\ud835\ude97": {
+        "o": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "\ud835\ude9c": {
+        "u": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "\ud835\ude9b": {
+        "'": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "\ud835\ude8a": {
+        "c": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "\ud835\ude98": {
+        "n": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "\ud835\ude9d": {
+        "r": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "\ud835\ude8e": {
+        "s": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "e": {
+        "y": {
             "row": 1,
-            "col": 6,
+            "col": 4,
+            "finger": "LI"
+        },
+        "d": {
+            "row": 1,
+            "col": 5,
             "finger": "RI"
         },
         "t": {
             "row": 1,
+            "col": 6,
+            "finger": "RI"
+        },
+        "e": {
+            "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "o": {
+        "i": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -82,78 +102,57 @@
             "row": 1,
             "col": 9,
             "finger": "RP"
-        }
-    },
-    "free": [
-        {
-            "row": 0,
-            "col": 4,
-            "finger": "LI"
         },
-        {
-            "row": 0,
-            "col": 5,
-            "finger": "RI"
-        },
-        {
-            "row": 1,
-            "col": 4,
-            "finger": "LI"
-        },
-        {
-            "row": 1,
-            "col": 5,
-            "finger": "RI"
-        },
-        {
+        "w": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        {
+        "h": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        {
+        "j": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        {
+        "f": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        {
+        "x": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        {
+        "k": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        {
+        "g": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        {
+        ";": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        {
+        ",": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        {
+        ".": {
             "row": 2,
             "col": 9,
             "finger": "RP"
         }
-    ]
+    },
+    "free": []
 }

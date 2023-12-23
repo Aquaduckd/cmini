@@ -1,79 +1,99 @@
 {
-    "name": "taipo",
-    "user": 1085579430623199292,
+    "name": "padlock",
+    "user": 103510200165617664,
     "board": "ortho",
     "keys": {
-        "r": {
+        "p": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "y": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "n": {
+        "d": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "i": {
+        "l": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "\ud835\ude92": {
+        "k": {
+            "row": 0,
+            "col": 4,
+            "finger": "LI"
+        },
+        "j": {
+            "row": 0,
+            "col": 5,
+            "finger": "RI"
+        },
+        "r": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "\ud835\ude97": {
+        "o": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "\ud835\ude9c": {
+        "u": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "\ud835\ude9b": {
+        "q": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "\ud835\ude8a": {
+        "c": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "\ud835\ude98": {
+        "s": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "\ud835\ude9d": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "\ud835\ude8e": {
+        "h": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "e": {
+        "v": {
+            "row": 1,
+            "col": 4,
+            "finger": "LI"
+        },
+        "b": {
+            "row": 1,
+            "col": 5,
+            "finger": "RI"
+        },
+        "n": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "t": {
+        "e": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "o": {
+        "i": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -82,78 +102,57 @@
             "row": 1,
             "col": 9,
             "finger": "RP"
-        }
-    },
-    "free": [
-        {
-            "row": 0,
-            "col": 4,
-            "finger": "LI"
         },
-        {
-            "row": 0,
-            "col": 5,
-            "finger": "RI"
-        },
-        {
-            "row": 1,
-            "col": 4,
-            "finger": "LI"
-        },
-        {
-            "row": 1,
-            "col": 5,
-            "finger": "RI"
-        },
-        {
+        "w": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        {
+        "f": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        {
+        "g": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        {
+        "m": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        {
+        "z": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        {
+        "/": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        {
+        "x": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        {
+        "'": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        {
+        ",": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        {
+        ".": {
             "row": 2,
             "col": 9,
             "finger": "RP"
         }
-    ]
+    },
+    "free": []
 }
