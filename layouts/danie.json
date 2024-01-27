@@ -1,9 +1,9 @@
 {
-    "name": "temp-kuntum-unangle",
+    "name": "danie",
     "user": 269222652042936341,
     "board": "ortho",
     "keys": {
-        "v": {
+        "j": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -13,27 +13,27 @@
             "col": 1,
             "finger": "LR"
         },
-        "n": {
+        "d": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "w": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "g": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -53,37 +53,37 @@
             "col": 9,
             "finger": "RP"
         },
-        "t": {
+        "r": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "n": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "r": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "h": {
+        "s": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "c": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "g": {
+        "k": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "h": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -108,7 +108,7 @@
             "col": 10,
             "finger": "RP"
         },
-        "q": {
+        "x": {
             "row": 2,
             "col": 0,
             "finger": "LP"
@@ -118,22 +118,22 @@
             "col": 1,
             "finger": "LR"
         },
-        "x": {
+        "m": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "b": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "v": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "m": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"
