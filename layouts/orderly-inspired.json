@@ -1,99 +1,99 @@
 {
-    "name": "volhiii",
-    "user": 717068268031967263,
-    "board": "ortho",
+    "name": "orderly-inspired",
+    "user": 772204572370010168,
+    "board": "angle",
     "keys": {
-        "z": {
+        "q": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "v": {
+        ",": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "m": {
+        "u": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        "f": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "w": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        ";": {
+        "k": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "'": {
+        "m": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "/": {
+        "r": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "k": {
+        "l": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "j": {
+        "y": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "n": {
+        "a": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "o": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "e": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "s": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "g": {
+        "c": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        ".": {
+        "d": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "a": {
+        "t": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "e": {
+        "n": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "r": {
+        "h": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -103,65 +103,60 @@
             "col": 9,
             "finger": "RP"
         },
-        "b": {
+        ";": {
+            "row": 1,
+            "col": 10,
+            "finger": "RP"
+        },
+        "x": {
             "row": 2,
             "col": 0,
-            "finger": "LP"
-        },
-        "f": {
-            "row": 2,
-            "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "z": {
             "row": 2,
-            "col": 2,
+            "col": 1,
             "finger": "LM"
         },
-        "p": {
+        "g": {
+            "row": 2,
+            "col": 2,
+            "finger": "LI"
+        },
+        "b": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "j": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "_": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "o": {
+        "v": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "u": {
+        ".": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "x": {
+        "'": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "/": {
             "row": 2,
             "col": 9,
             "finger": "RP"
-        },
-        "l": {
-            "row": 3,
-            "col": 0,
-            "finger": "RT"
-        },
-        "h": {
-            "row": 3,
-            "col": 1,
-            "finger": "RT"
         }
     }
 }

@@ -1,14 +1,14 @@
 {
-    "name": "rocksteady_difficult",
-    "user": 631740610864349194,
-    "board": "angle",
+    "name": "gg-1",
+    "user": 727171126458843246,
+    "board": "ortho",
     "keys": {
-        "z": {
+        "x": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "l": {
+        "q": {
             "row": 0,
             "col": 1,
             "finger": "LR"
@@ -18,17 +18,17 @@
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "w": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "j": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -53,12 +53,17 @@
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "-": {
+            "row": 0,
+            "col": 10,
+            "finger": "RP"
+        },
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "r": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -68,22 +73,22 @@
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "s": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "g": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "y": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "n": {
+        "h": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -108,22 +113,22 @@
             "col": 10,
             "finger": "RP"
         },
-        "x": {
+        "b": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
-        "k": {
+        "l": {
             "row": 2,
             "col": 1,
+            "finger": "LR"
+        },
+        "d": {
+            "row": 2,
+            "col": 2,
             "finger": "LM"
         },
         "c": {
-            "row": 2,
-            "col": 2,
-            "finger": "LI"
-        },
-        "y": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -133,12 +138,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "k": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "p": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -158,6 +163,5 @@
             "col": 9,
             "finger": "RP"
         }
-    },
-    "free": []
+    }
 }
