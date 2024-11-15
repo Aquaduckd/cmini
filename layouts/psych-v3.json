@@ -1,5 +1,5 @@
 {
-    "name": "psych",
+    "name": "psych-v3",
     "user": 377291081542533121,
     "board": "angle",
     "keys": {
@@ -148,12 +148,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "x": {
+        "q": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "q": {
+        "x": {
             "row": 2,
             "col": 9,
             "finger": "RP"
