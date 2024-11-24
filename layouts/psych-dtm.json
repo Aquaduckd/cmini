@@ -1,9 +1,9 @@
 {
-    "name": "cipher-failed",
+    "name": "psych-dtm",
     "user": 377291081542533121,
     "board": "angle",
     "keys": {
-        ",": {
+        "/": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -18,12 +18,12 @@
             "col": 2,
             "finger": "LM"
         },
-        "y": {
+        "v": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "q": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -43,22 +43,22 @@
             "col": 7,
             "finger": "RM"
         },
-        "b": {
+        "l": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "w": {
+        "b": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "i": {
+        "e": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "e": {
+        "i": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -73,12 +73,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "c": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "r": {
+        "'": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -93,17 +93,17 @@
             "col": 7,
             "finger": "RM"
         },
-        "n": {
+        "r": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "c": {
+        "n": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        ";": {
+        ",": {
             "row": 2,
             "col": 0,
             "finger": "LR"
@@ -113,7 +113,7 @@
             "col": 1,
             "finger": "LM"
         },
-        "/": {
+        "w": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -128,12 +128,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "l": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "q": {
+        "y": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -143,12 +143,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "p": {
+        "x": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "v": {
+        "f": {
             "row": 2,
             "col": 9,
             "finger": "RP"
