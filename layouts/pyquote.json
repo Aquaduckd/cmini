@@ -1,5 +1,5 @@
 {
-    "name": "psych",
+    "name": "pyquote",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -73,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        "q": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -148,7 +148,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "q": {
+        "x": {
             "row": 2,
             "col": 9,
             "finger": "RP"
