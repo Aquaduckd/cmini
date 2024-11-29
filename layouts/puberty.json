@@ -1,7 +1,7 @@
 {
-    "name": "psych",
+    "name": "puberty",
     "user": 377291081542533121,
-    "board": "stagger",
+    "board": "angle",
     "keys": {
         "/": {
             "row": 0,
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "f": {
+        "p": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"

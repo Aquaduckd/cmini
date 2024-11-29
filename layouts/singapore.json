@@ -1,5 +1,5 @@
 {
-    "name": "psych",
+    "name": "singapore",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -8,17 +8,17 @@
             "col": 0,
             "finger": "LP"
         },
-        "o": {
+        "u": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "u": {
+        "o": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "f": {
+        "w": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -28,12 +28,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -58,22 +58,22 @@
             "col": 0,
             "finger": "LP"
         },
-        "a": {
+        "i": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "i": {
+        "a": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "s": {
+        "c": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        "x": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -103,17 +103,17 @@
             "col": 9,
             "finger": "RP"
         },
-        ".": {
+        ",": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        ",": {
+        ".": {
             "row": 2,
             "col": 1,
             "finger": "LM"
         },
-        "c": {
+        "s": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -123,10 +123,10 @@
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "p": {
             "row": 2,
             "col": 4,
-            "finger": "LI"
+            "finger": "RI"
         },
         "d": {
             "row": 2,
