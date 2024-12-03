@@ -1,5 +1,5 @@
 {
-    "name": "psych",
+    "name": "psych-v3",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "w": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -28,12 +28,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "x": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -78,7 +78,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "d": {
+        "p": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -113,7 +113,7 @@
             "col": 1,
             "finger": "LM"
         },
-        "w": {
+        "c": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -128,7 +128,7 @@
             "col": 4,
             "finger": "RI"
         },
-        "f": {
+        "d": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -148,7 +148,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "x": {
+        "q": {
             "row": 2,
             "col": 9,
             "finger": "RP"
