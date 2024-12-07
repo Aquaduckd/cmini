@@ -1,5 +1,5 @@
 {
-    "name": "cipher",
+    "name": "vapor",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        "'": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "v": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -78,7 +78,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        "g": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -118,17 +118,17 @@
             "col": 2,
             "finger": "LI"
         },
-        "g": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        "p": {
             "row": 2,
             "col": 4,
             "finger": "RI"
         },
-        "d": {
+        "w": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -138,17 +138,17 @@
             "col": 6,
             "finger": "RI"
         },
-        "v": {
+        "j": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "j": {
+        "x": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "x": {
+        "q": {
             "row": 2,
             "col": 9,
             "finger": "RP"
