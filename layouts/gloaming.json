@@ -1,5 +1,5 @@
 {
-    "name": "evening",
+    "name": "gloaming",
     "user": 1235943621803511901,
     "board": "ortho",
     "keys": {
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "s": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -153,7 +153,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "n": {
+        "s": {
             "row": 3,
             "col": 0,
             "finger": "LT"
