@@ -1,5 +1,5 @@
 {
-    "name": "callisto",
+    "name": "callisto_alt",
     "user": 1010618301895934034,
     "board": "ortho",
     "keys": {
@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "\u0433": {
+        "\u0445": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "\u0437": {
+        "\u0448": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -113,7 +113,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "\u0444": {
+        "\u0437": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -143,7 +143,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "\u0445": {
+        "\u0433": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -163,7 +163,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "\u0448": {
+        "\u0444": {
             "row": 2,
             "col": 9,
             "finger": "RP"
