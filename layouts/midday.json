@@ -1,5 +1,5 @@
 {
-    "name": "sundown",
+    "name": "midday",
     "user": 1235943621803511901,
     "board": "ortho",
     "keys": {
@@ -18,12 +18,12 @@
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        "g": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "g": {
+        "v": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -63,7 +63,7 @@
             "col": 1,
             "finger": "LR"
         },
-        "h": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
@@ -123,7 +123,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "w": {
             "row": 2,
             "col": 4,
             "finger": "LI"
@@ -153,7 +153,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "t": {
+        "h": {
             "row": 3,
             "col": 0,
             "finger": "LT"
