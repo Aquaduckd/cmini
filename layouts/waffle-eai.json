@@ -1,5 +1,5 @@
 {
-    "name": "waffle-naei",
+    "name": "waffle-eai",
     "user": 1235943621803511901,
     "board": "angle",
     "keys": {
@@ -21,7 +21,7 @@
         "w": {
             "row": 0,
             "col": 3,
-            "finger": "LI"
+            "finger": "LM"
         },
         "v": {
             "row": 0,
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "'": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -88,12 +88,12 @@
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -101,6 +101,11 @@
         "i": {
             "row": 1,
             "col": 9,
+            "finger": "RP"
+        },
+        ",": {
+            "row": 1,
+            "col": 10,
             "finger": "RP"
         },
         "z": {
@@ -138,17 +143,17 @@
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "/": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "\"": {
+        ".": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        ";": {
             "row": 2,
             "col": 9,
             "finger": "RP"
