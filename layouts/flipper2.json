@@ -1,5 +1,5 @@
 {
-    "name": "flipper",
+    "name": "flipper2",
     "user": 990947281857577002,
     "board": "ortho",
     "keys": {
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "y": {
+        "s": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -73,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "m": {
+        "y": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -83,7 +83,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "s": {
+        "m": {
             "row": 1,
             "col": 6,
             "finger": "RI"
