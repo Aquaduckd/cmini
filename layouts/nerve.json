@@ -1,5 +1,5 @@
 {
-    "name": "dmt",
+    "name": "nerve",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,17 +23,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "b": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -43,12 +43,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "p": {
+        "d": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "b": {
+        "v": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -103,7 +103,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "q": {
+        "x": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -133,12 +133,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "d": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "k": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -148,12 +148,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "v": {
+        "k": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "x": {
+        "q": {
             "row": 2,
             "col": 9,
             "finger": "RP"
