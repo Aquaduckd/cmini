@@ -1,59 +1,69 @@
 {
-    "name": "mr_sfb_3x10_global_min_(algae)",
-    "user": 621924065581465611,
+    "name": "qwertz-anglecheatmod",
+    "user": 1150484529157509221,
     "board": "ortho",
     "keys": {
-        "x": {
+        "q": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "b": {
+        "w": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "h": {
+        "e": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "m": {
+        "r": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "j": {
+        "t": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "f": {
+        "z": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "y": {
+        "u": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "i": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "o": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "p": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "\u00fc": {
+            "row": 0,
+            "col": 10,
+            "finger": "RP"
+        },
+        "\u00a8": {
+            "row": 0,
+            "col": 11,
+            "finger": "RP"
+        },
+        "a": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -63,92 +73,102 @@
             "col": 1,
             "finger": "LR"
         },
-        "n": {
+        "d": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "t": {
+        "f": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "g": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "w": {
+        "h": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "j": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "k": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "l": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "\u00f6": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "z": {
+        "\u00e4": {
+            "row": 1,
+            "col": 10,
+            "finger": "RP"
+        },
+        "$": {
+            "row": 1,
+            "col": 11,
+            "finger": "RP"
+        },
+        "b": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "v": {
+        "y": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "l": {
+        "x": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "c": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "v": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        "n": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "g": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        ",": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "/": {
+        ".": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "-": {
             "row": 2,
             "col": 9,
             "finger": "RP"
