@@ -1,24 +1,24 @@
 {
-    "name": "inlex",
+    "name": "rim",
     "user": 584442680725995540,
     "board": "ortho",
     "keys": {
-        "g": {
+        "f": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "f": {
+        "y": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "l": {
+        "m": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "b": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "x": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -47,6 +47,11 @@
             "row": 0,
             "col": 8,
             "finger": "RR"
+        },
+        "j": {
+            "row": 0,
+            "col": 9,
+            "finger": "RP"
         },
         "c": {
             "row": 1,
@@ -68,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -103,7 +108,12 @@
             "col": 0,
             "finger": "LP"
         },
-        "m": {
+        "z": {
+            "row": 2,
+            "col": 1,
+            "finger": "LR"
+        },
+        "g": {
             "row": 2,
             "col": 2,
             "finger": "LM"
@@ -118,17 +128,27 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        ";": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "l": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "j": {
+        ",": {
+            "row": 2,
+            "col": 7,
+            "finger": "RM"
+        },
+        ".": {
+            "row": 2,
+            "col": 8,
+            "finger": "RR"
+        },
+        "/": {
             "row": 2,
             "col": 9,
             "finger": "RP"
