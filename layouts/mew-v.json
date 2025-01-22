@@ -1,5 +1,5 @@
 {
-    "name": "mew",
+    "name": "mew-v",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "q": {
+        "f": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "v": {
+        "q": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -78,17 +78,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "y": {
+        "c": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "y": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -123,7 +123,7 @@
             "col": 1,
             "finger": "LM"
         },
-        "p": {
+        "v": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -138,12 +138,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "g": {
+        "m": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "g": {
             "row": 2,
             "col": 6,
             "finger": "RI"

@@ -1,5 +1,5 @@
 {
-    "name": "mew",
+    "name": "dewed",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "q": {
+        "f": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -48,12 +48,12 @@
             "col": 8,
             "finger": "RR"
         },
-        "b": {
+        "m": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "v": {
+        "'": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -78,7 +78,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "v": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -88,7 +88,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "s": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -103,12 +103,12 @@
             "col": 8,
             "finger": "RR"
         },
-        "s": {
+        "d": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "'": {
+        "b": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -123,12 +123,12 @@
             "col": 1,
             "finger": "LM"
         },
-        "p": {
+        ".": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "d": {
+        "p": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -158,7 +158,7 @@
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "q": {
             "row": 2,
             "col": 9,
             "finger": "RP"
