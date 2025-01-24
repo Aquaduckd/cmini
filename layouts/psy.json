@@ -1,5 +1,5 @@
 {
-    "name": "cytem",
+    "name": "psy",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,7 +23,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,27 +33,27 @@
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "n": {
+        "l": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "l": {
+        "d": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "v": {
+        "b": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "j": {
+        "q": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -83,12 +83,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "m": {
+        "c": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "d": {
+        "h": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -98,17 +98,17 @@
             "col": 7,
             "finger": "RM"
         },
-        "h": {
+        "t": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "t": {
+        "n": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "'": {
+        ".": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -123,7 +123,7 @@
             "col": 1,
             "finger": "LM"
         },
-        "z": {
+        "v": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -133,32 +133,32 @@
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "'": {
             "row": 2,
             "col": 4,
-            "finger": "LI"
+            "finger": "RI"
         },
-        "c": {
+        "w": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "q": {
+        "j": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "x": {
+        "k": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "x": {
             "row": 2,
             "col": 9,
             "finger": "RP"

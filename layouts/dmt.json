@@ -73,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        "g": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -123,15 +123,15 @@
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "c": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "c": {
+        "'": {
             "row": 2,
             "col": 4,
-            "finger": "LI"
+            "finger": "RI"
         },
         "p": {
             "row": 2,
