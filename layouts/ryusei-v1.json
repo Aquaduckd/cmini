@@ -1,5 +1,5 @@
 {
-    "name": "ryusei",
+    "name": "ryusei-v1",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,10 +18,10 @@
             "col": 2,
             "finger": "LM"
         },
-        "q": {
+        ".": {
             "row": 0,
             "col": 3,
-            "finger": "LI"
+            "finger": "LM"
         },
         "z": {
             "row": 0,
@@ -33,27 +33,27 @@
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "p": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "r": {
+        "l": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "p": {
+        "h": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "v": {
+        "b": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        "q": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -83,27 +83,27 @@
             "col": 4,
             "finger": "LI"
         },
-        "d": {
+        "m": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "t": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "l": {
+        "r": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "n": {
+        "d": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "t": {
+        "n": {
             "row": 1,
             "col": 9,
             "finger": "RP"
@@ -143,7 +143,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "v": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -153,12 +153,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "b": {
+        "f": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "x": {
             "row": 2,
             "col": 9,
             "finger": "RP"
