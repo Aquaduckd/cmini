@@ -1,19 +1,19 @@
 {
-    "name": "surrender",
-    "user": 584442680725995540,
+    "name": "hands-down-vibranium-f-kq-sym",
+    "user": 1150484529157509221,
     "board": "ortho",
     "keys": {
-        "z": {
+        "x": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "l": {
+        "w": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "h": {
+        "m": {
             "row": 0,
             "col": 2,
             "finger": "LM"
@@ -23,34 +23,39 @@
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "j": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        ";": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        ".": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "-": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "'": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "z": {
             "row": 0,
             "col": 9,
+            "finger": "RP"
+        },
+        "=": {
+            "row": 0,
+            "col": 10,
             "finger": "RP"
         },
         "s": {
@@ -58,7 +63,7 @@
             "col": 0,
             "finger": "LP"
         },
-        "r": {
+        "c": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -68,39 +73,44 @@
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "t": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "q": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        ",": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "t": {
+        "a": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "i": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "h": {
             "row": 1,
             "col": 9,
+            "finger": "RP"
+        },
+        "k": {
+            "row": 1,
+            "col": 10,
             "finger": "RP"
         },
         "f": {
@@ -108,12 +118,17 @@
             "col": 0,
             "finger": "LP"
         },
-        "b": {
+        "p": {
+            "row": 2,
+            "col": 1,
+            "finger": "LR"
+        },
+        "l": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -123,25 +138,35 @@
             "col": 4,
             "finger": "LI"
         },
-        "k": {
+        "/": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "d": {
+        "u": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "x": {
+        "o": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        ".": {
+        "y": {
+            "row": 2,
+            "col": 8,
+            "finger": "RR"
+        },
+        "b": {
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "r": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         }
     }
 }

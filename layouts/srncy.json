@@ -1,5 +1,5 @@
 {
-    "name": "surrender",
+    "name": "srncy",
     "user": 584442680725995540,
     "board": "ortho",
     "keys": {
@@ -38,20 +38,15 @@
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "u": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "o": {
             "row": 0,
             "col": 8,
             "finger": "RR"
-        },
-        ",": {
-            "row": 0,
-            "col": 9,
-            "finger": "RP"
         },
         "s": {
             "row": 1,
@@ -88,17 +83,17 @@
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "i": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "e": {
             "row": 1,
             "col": 9,
             "finger": "RP"
@@ -137,11 +132,6 @@
             "row": 2,
             "col": 7,
             "finger": "RM"
-        },
-        ".": {
-            "row": 2,
-            "col": 9,
-            "finger": "RP"
         }
     }
 }
