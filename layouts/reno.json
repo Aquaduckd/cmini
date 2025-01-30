@@ -1,14 +1,14 @@
 {
-    "name": "rocksteady",
-    "user": 631740610864349194,
-    "board": "angle",
+    "name": "reno",
+    "user": 717068268031967263,
+    "board": "ortho",
     "keys": {
-        "v": {
+        "\\": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "l": {
+        "v": {
             "row": 0,
             "col": 1,
             "finger": "LR"
@@ -18,37 +18,37 @@
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "p": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "w": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "!": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "l": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "u": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "o": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "j": {
+        "^": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -68,32 +68,32 @@
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "c": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "g": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        ".": {
+        "|": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "n": {
+        "h": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -103,60 +103,70 @@
             "col": 9,
             "finger": "RP"
         },
-        "/": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
-        },
-        "z": {
+        "=": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
-        "x": {
+        "b": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
-        "c": {
+        "d": {
             "row": 2,
             "col": 2,
-            "finger": "LI"
+            "finger": "LM"
         },
-        "w": {
+        "f": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "y": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "@": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "_": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "$": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        ";": {
+        "#": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "%": {
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "n": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
+        },
+        ":": {
+            "row": 3,
+            "col": 1,
+            "finger": "LT"
+        },
+        "5": {
+            "row": 3,
+            "col": 2,
+            "finger": "LT"
         }
     }
 }
