@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "*": {
+        "@": {
             "row": 0,
             "col": 6,
             "finger": "RI"

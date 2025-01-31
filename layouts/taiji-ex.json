@@ -1,9 +1,9 @@
 {
-    "name": "taiji",
+    "name": "taiji-ex",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
-        "\\": {
+        ";": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "y": {
+        "k": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        ";": {
+        "\\": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -48,12 +48,12 @@
             "col": 8,
             "finger": "RR"
         },
-        "b": {
+        "f": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "z": {
+        "x": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -83,7 +83,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "m": {
+        "y": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -128,27 +128,27 @@
             "col": 2,
             "finger": "LI"
         },
-        "f": {
+        "g": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "b": {
             "row": 2,
             "col": 4,
-            "finger": "LI"
+            "finger": "RI"
         },
         "c": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "g": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "x": {
+        "z": {
             "row": 2,
             "col": 7,
             "finger": "RM"
