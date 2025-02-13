@@ -1,5 +1,5 @@
 {
-    "name": "zye",
+    "name": "zitum",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,17 +23,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "f": {
+        "b": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -88,17 +88,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "d": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "m": {
+        "c": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "d": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -118,7 +118,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "v": {
+        "'": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -133,12 +133,12 @@
             "col": 1,
             "finger": "LM"
         },
-        "z": {
+        "v": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "p": {
+        "g": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -146,9 +146,9 @@
         "k": {
             "row": 2,
             "col": 4,
-            "finger": "LI"
+            "finger": "RI"
         },
-        "g": {
+        "m": {
             "row": 2,
             "col": 5,
             "finger": "RI"
