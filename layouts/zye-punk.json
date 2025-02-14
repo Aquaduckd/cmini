@@ -1,9 +1,9 @@
 {
-    "name": "zye",
+    "name": "zye-punk",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
-        "j": {
+        ";": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -56,16 +56,6 @@
         "x": {
             "row": 0,
             "col": 10,
-            "finger": "RP"
-        },
-        ";": {
-            "row": 0,
-            "col": 11,
-            "finger": "RP"
-        },
-        "\\": {
-            "row": 0,
-            "col": 12,
             "finger": "RP"
         },
         "e": {
@@ -123,12 +113,12 @@
             "col": 10,
             "finger": "RP"
         },
-        "[": {
+        "/": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "]": {
+        ",": {
             "row": 2,
             "col": 1,
             "finger": "LM"
@@ -158,10 +148,20 @@
             "col": 6,
             "finger": "RI"
         },
-        "\u24e3": {
+        "j": {
             "row": 2,
             "col": 7,
             "finger": "RM"
+        },
+        "\\": {
+            "row": 2,
+            "col": 8,
+            "finger": "RR"
+        },
+        ".": {
+            "row": 2,
+            "col": 9,
+            "finger": "RP"
         }
     }
 }
