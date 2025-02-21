@@ -1,5 +1,5 @@
 {
-    "name": "graphite_depuncted",
+    "name": "gralmak-thumb",
     "user": 409742945294483456,
     "board": "ortho",
     "keys": {
@@ -23,10 +23,15 @@
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "q": {
             "row": 0,
             "col": 4,
             "finger": "LI"
+        },
+        "j": {
+            "row": 0,
+            "col": 5,
+            "finger": "RI"
         },
         "f": {
             "row": 0,
@@ -43,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "j": {
+        "'": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -98,7 +103,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "q": {
+        "z": {
             "row": 2,
             "col": 0,
             "finger": "LP"
@@ -132,6 +137,26 @@
             "row": 2,
             "col": 6,
             "finger": "RI"
+        },
+        "/": {
+            "row": 2,
+            "col": 9,
+            "finger": "RP"
+        },
+        ",": {
+            "row": 3,
+            "col": 0,
+            "finger": "RT"
+        },
+        ".": {
+            "row": 3,
+            "col": 1,
+            "finger": "RT"
+        },
+        ";": {
+            "row": 3,
+            "col": 2,
+            "finger": "RT"
         }
     }
 }
