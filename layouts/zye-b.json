@@ -1,5 +1,5 @@
 {
-    "name": "zye-z",
+    "name": "zye-b",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,12 +18,12 @@
             "col": 2,
             "finger": "LM"
         },
-        "k": {
+        "y": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "b": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "b": {
+        "x": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -83,7 +83,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "c": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -128,12 +128,12 @@
             "col": 1,
             "finger": "LM"
         },
-        "z": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "y": {
+        "c": {
             "row": 2,
             "col": 3,
             "finger": "LI"
