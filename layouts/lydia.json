@@ -1,5 +1,5 @@
 {
-    "name": "zye-z",
+    "name": "lydia",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,7 +23,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "x": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "b": {
+        "f": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -113,7 +113,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "f": {
+        "b": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -128,7 +128,7 @@
             "col": 1,
             "finger": "LM"
         },
-        "x": {
+        "\u03bb": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -141,7 +141,7 @@
         "v": {
             "row": 2,
             "col": 4,
-            "finger": "RI"
+            "finger": "LI"
         },
         "g": {
             "row": 2,
@@ -153,10 +153,15 @@
             "col": 6,
             "finger": "RI"
         },
-        "q": {
+        "z": {
             "row": 2,
             "col": 7,
             "finger": "RM"
+        },
+        "q": {
+            "row": 2,
+            "col": 8,
+            "finger": "RR"
         }
     }
 }
