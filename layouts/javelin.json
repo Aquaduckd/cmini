@@ -1,5 +1,5 @@
 {
-    "name": "zye-y",
+    "name": "javelin",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -28,12 +28,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        "\u03b8": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "v": {
+        "m": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -56,11 +56,6 @@
         "z": {
             "row": 0,
             "col": 10,
-            "finger": "RP"
-        },
-        "/": {
-            "row": 0,
-            "col": 11,
             "finger": "RP"
         },
         "e": {
@@ -118,12 +113,12 @@
             "col": 10,
             "finger": "RP"
         },
-        "[": {
+        "\u2202": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "]": {
+        "\u03bb": {
             "row": 2,
             "col": 1,
             "finger": "LM"
@@ -138,12 +133,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "'": {
             "row": 2,
             "col": 4,
             "finger": "RI"
         },
-        "m": {
+        "v": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -153,7 +148,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "\u24e3": {
+        "x": {
             "row": 2,
             "col": 7,
             "finger": "RM"
