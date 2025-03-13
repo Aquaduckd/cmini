@@ -1,5 +1,5 @@
 {
-    "name": "zeppelin",
+    "name": "zye-v3",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,12 +23,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -48,14 +48,19 @@
             "col": 8,
             "finger": "RR"
         },
-        "f": {
+        "v": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        "b": {
             "row": 0,
             "col": 10,
+            "finger": "RP"
+        },
+        "/": {
+            "row": 0,
+            "col": 11,
             "finger": "RP"
         },
         "e": {
@@ -108,27 +113,27 @@
             "col": 9,
             "finger": "RP"
         },
-        "b": {
+        "x": {
             "row": 1,
             "col": 10,
             "finger": "RP"
         },
-        "\u2202": {
+        "[": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "\u03bb": {
+        "]": {
             "row": 2,
             "col": 1,
             "finger": "LM"
         },
-        "v": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "k": {
+        "f": {
             "row": 2,
             "col": 3,
             "finger": "LI"
