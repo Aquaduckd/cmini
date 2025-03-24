@@ -1,0 +1,42 @@
+{
+    "name": "fycmini",
+    "user": 584442680725995540,
+    "board": "ortho",
+    "keys": {
+        "f": {
+            "row": 1,
+            "col": 1,
+            "finger": "LR"
+        },
+        "\u00fc": {
+            "row": 1,
+            "col": 2,
+            "finger": "LM"
+        },
+        "c": {
+            "row": 1,
+            "col": 3,
+            "finger": "LI"
+        },
+        "k": {
+            "row": 1,
+            "col": 4,
+            "finger": "LI"
+        },
+        "y": {
+            "row": 1,
+            "col": 5,
+            "finger": "RI"
+        },
+        "o": {
+            "row": 1,
+            "col": 6,
+            "finger": "RI"
+        },
+        "u": {
+            "row": 1,
+            "col": 7,
+            "finger": "RM"
+        }
+    }
+}
