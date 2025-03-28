@@ -1,5 +1,5 @@
 {
-    "name": "lapine",
+    "name": "bee",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,17 +23,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "\u24d1": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "\u24e3": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        "v": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -78,7 +78,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -123,12 +123,12 @@
             "col": 1,
             "finger": "LM"
         },
-        "v": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "p": {
+        "g": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -143,7 +143,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "g": {
+        "w": {
             "row": 2,
             "col": 6,
             "finger": "RI"
