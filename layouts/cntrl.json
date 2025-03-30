@@ -1,24 +1,24 @@
 {
-    "name": "oxeytest",
+    "name": "cntrl",
     "user": 383900587877597186,
     "board": "ortho",
     "keys": {
-        ";": {
+        "b": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "u": {
+        "v": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "a": {
+        "d": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "m": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -33,125 +33,130 @@
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        ".": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "d": {
+        "a": {
             "row": 0,
             "col": 7,
             "finger": "RM"
-        },
-        "l": {
-            "row": 0,
-            "col": 8,
-            "finger": "RR"
         },
         "y": {
             "row": 0,
+            "col": 8,
+            "finger": "RR"
+        },
+        ";": {
+            "row": 0,
             "col": 9,
             "finger": "RP"
-        },
-        "i": {
-            "row": 1,
-            "col": 0,
-            "finger": "LP"
-        },
-        "e": {
-            "row": 1,
-            "col": 1,
-            "finger": "LR"
-        },
-        "o": {
-            "row": 1,
-            "col": 2,
-            "finger": "LM"
-        },
-        "h": {
-            "row": 1,
-            "col": 3,
-            "finger": "LI"
-        },
-        "b": {
-            "row": 1,
-            "col": 4,
-            "finger": "LI"
         },
         "c": {
             "row": 1,
+            "col": 0,
+            "finger": "LP"
+        },
+        "n": {
+            "row": 1,
+            "col": 1,
+            "finger": "LR"
+        },
+        "t": {
+            "row": 1,
+            "col": 2,
+            "finger": "LM"
+        },
+        "r": {
+            "row": 1,
+            "col": 3,
+            "finger": "LI"
+        },
+        "l": {
+            "row": 1,
+            "col": 4,
+            "finger": "LI"
+        },
+        "'": {
+            "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "s": {
+        "i": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "t": {
+        "o": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "r": {
+        "e": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "n": {
+        "h": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        ",": {
+        "w": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "z": {
+        "p": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        ".": {
+        "g": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "f": {
+        "/": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        "z": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "v": {
+        ",": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "g": {
+        "u": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "m": {
+        "j": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "j": {
+        "q": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "q": {
+        "f": {
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "s": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         }
     }
 }
