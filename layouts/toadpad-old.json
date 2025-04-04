@@ -1,9 +1,9 @@
 {
-    "name": "toadpad-gemini-optimized",
+    "name": "toadpad-old",
     "user": 737315876872913007,
     "board": "ortho",
     "keys": {
-        "h": {
+        "u": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -13,7 +13,7 @@
             "col": 1,
             "finger": "LR"
         },
-        "u": {
+        "n": {
             "row": 0,
             "col": 2,
             "finger": "LM"
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "l": {
+        "j": {
             "row": 0,
             "col": 5,
             "finger": "LP"
@@ -38,7 +38,7 @@
             "col": 6,
             "finger": "LR"
         },
-        "k": {
+        "l": {
             "row": 0,
             "col": 7,
             "finger": "LM"
@@ -48,12 +48,12 @@
             "col": 8,
             "finger": "LI"
         },
-        "j": {
+        "k": {
             "row": 0,
             "col": 9,
             "finger": "LI"
         },
-        "n": {
+        "e": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -63,7 +63,7 @@
             "col": 1,
             "finger": "LR"
         },
-        "e": {
+        "s": {
             "row": 1,
             "col": 2,
             "finger": "LM"
@@ -73,12 +73,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "d": {
+        "c": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "s": {
+        "/": {
             "row": 1,
             "col": 5,
             "finger": "LP"
@@ -88,7 +88,7 @@
             "col": 6,
             "finger": "LR"
         },
-        "/": {
+        "h": {
             "row": 1,
             "col": 7,
             "finger": "LM"
@@ -103,7 +103,7 @@
             "col": 9,
             "finger": "LI"
         },
-        "r": {
+        "y": {
             "row": 2,
             "col": 0,
             "finger": "LP"
@@ -113,12 +113,12 @@
             "col": 1,
             "finger": "LR"
         },
-        "y": {
+        "r": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -128,7 +128,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "z": {
             "row": 2,
             "col": 5,
             "finger": "LP"
@@ -138,7 +138,7 @@
             "col": 6,
             "finger": "LR"
         },
-        "z": {
+        "x": {
             "row": 2,
             "col": 7,
             "finger": "LM"
