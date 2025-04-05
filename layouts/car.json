@@ -1,14 +1,14 @@
 {
-    "name": "seht-drai-onehand",
-    "user": 737315876872913007,
+    "name": "car",
+    "user": 584442680725995540,
     "board": "ortho",
     "keys": {
-        "f": {
+        "x": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "u": {
+        "f": {
             "row": 0,
             "col": 1,
             "finger": "LR"
@@ -18,47 +18,47 @@
             "col": 2,
             "finger": "LM"
         },
-        "v": {
+        "k": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "q": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "j": {
             "row": 0,
             "col": 5,
-            "finger": "LP"
+            "finger": "RI"
         },
         "g": {
             "row": 0,
             "col": 6,
-            "finger": "LR"
-        },
-        "n": {
-            "row": 0,
-            "col": 7,
-            "finger": "LM"
+            "finger": "RI"
         },
         "o": {
             "row": 0,
-            "col": 8,
-            "finger": "LI"
+            "col": 7,
+            "finger": "RM"
         },
-        "j": {
+        "u": {
+            "row": 0,
+            "col": 8,
+            "finger": "RR"
+        },
+        ",": {
             "row": 0,
             "col": 9,
-            "finger": "LI"
+            "finger": "RP"
         },
-        "s": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "e": {
+        "s": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -73,47 +73,42 @@
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "v": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        "y": {
             "row": 1,
             "col": 5,
-            "finger": "LP"
+            "finger": "RI"
         },
-        "d": {
+        "c": {
             "row": 1,
             "col": 6,
-            "finger": "LR"
-        },
-        "r": {
-            "row": 1,
-            "col": 7,
-            "finger": "LM"
+            "finger": "RI"
         },
         "a": {
             "row": 1,
+            "col": 7,
+            "finger": "RM"
+        },
+        "e": {
+            "row": 1,
             "col": 8,
-            "finger": "LI"
+            "finger": "RR"
         },
         "i": {
             "row": 1,
             "col": 9,
-            "finger": "LI"
+            "finger": "RP"
         },
-        ".": {
-            "row": 1,
-            "col": 10,
-            "finger": "LI"
-        },
-        "z": {
+        "b": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        ";": {
+        "z": {
             "row": 2,
             "col": 1,
             "finger": "LR"
@@ -123,40 +118,45 @@
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        ";": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "y": {
+        "p": {
             "row": 2,
             "col": 5,
-            "finger": "LP"
+            "finger": "RI"
         },
-        "c": {
+        "w": {
             "row": 2,
             "col": 6,
-            "finger": "LR"
+            "finger": "RI"
         },
-        "x": {
+        "'": {
             "row": 2,
             "col": 7,
-            "finger": "LM"
+            "finger": "RM"
         },
         "/": {
             "row": 2,
             "col": 8,
-            "finger": "LI"
+            "finger": "RR"
         },
-        ",": {
+        ".": {
             "row": 2,
             "col": 9,
-            "finger": "LI"
+            "finger": "RP"
+        },
+        "r": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         }
     }
 }
