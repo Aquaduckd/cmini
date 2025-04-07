@@ -23,7 +23,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "\u24d1": {
+        "\\": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -113,12 +113,12 @@
             "col": 10,
             "finger": "RP"
         },
-        "\u2202": {
+        "[": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "\u03bb": {
+        "]": {
             "row": 2,
             "col": 1,
             "finger": "LM"

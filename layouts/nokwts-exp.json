@@ -1,5 +1,5 @@
 {
-    "name": "nokwts2",
+    "name": "nokwts-exp",
     "user": 130544188818194432,
     "board": "stagger",
     "keys": {
@@ -88,7 +88,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "e": {
+        "/": {
             "row": 1,
             "col": 7,
             "finger": "RM"
@@ -118,7 +118,7 @@
             "col": 1,
             "finger": "LR"
         },
-        "g": {
+        "w": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -138,12 +138,12 @@
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        "g": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "/": {
+        "e": {
             "row": 2,
             "col": 7,
             "finger": "RM"
