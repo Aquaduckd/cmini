@@ -1,24 +1,24 @@
 {
-    "name": "dirtstreak",
+    "name": "treatise-unangled",
     "user": 162417565740564481,
-    "board": "angle",
+    "board": "ortho",
     "keys": {
         "l": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "d": {
+        "b": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "c": {
+        "d": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "b": {
+        "c": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -38,12 +38,12 @@
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "u": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "o": {
             "row": 0,
             "col": 8,
             "finger": "RR"
@@ -63,12 +63,12 @@
             "col": 0,
             "finger": "LP"
         },
-        "t": {
+        "s": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "s": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
@@ -108,32 +108,27 @@
             "col": 9,
             "finger": "RP"
         },
-        ";": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
+        "q": {
+            "row": 2,
+            "col": 0,
+            "finger": "LP"
         },
         "x": {
             "row": 2,
-            "col": 0,
+            "col": 1,
             "finger": "LR"
         },
         "g": {
             "row": 2,
-            "col": 1,
+            "col": 2,
             "finger": "LM"
         },
         "w": {
             "row": 2,
-            "col": 2,
-            "finger": "LI"
-        },
-        "m": {
-            "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "m": {
             "row": 2,
             "col": 4,
             "finger": "LI"
