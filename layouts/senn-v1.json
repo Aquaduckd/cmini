@@ -1,5 +1,5 @@
 {
-    "name": "senna",
+    "name": "senn-v1",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,7 +23,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "\\": {
+        "/": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,17 +33,17 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "g": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "s": {
+        "r": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "r": {
+        "l": {
             "row": 0,
             "col": 8,
             "finger": "RR"
@@ -93,22 +93,22 @@
             "col": 6,
             "finger": "RI"
         },
-        "l": {
+        "n": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "n": {
+        "h": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "h": {
+        "s": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "'": {
+        "x": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -128,15 +128,15 @@
             "col": 2,
             "finger": "LI"
         },
-        "g": {
+        "p": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "'": {
             "row": 2,
             "col": 4,
-            "finger": "LI"
+            "finger": "RI"
         },
         "c": {
             "row": 2,
