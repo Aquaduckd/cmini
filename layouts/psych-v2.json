@@ -1,5 +1,5 @@
 {
-    "name": "psych",
+    "name": "psych-v2",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "k": {
+        "p": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -78,7 +78,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "k": {
             "row": 1,
             "col": 4,
             "finger": "LI"
