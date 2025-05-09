@@ -1,7 +1,7 @@
 {
     "name": "whorfed",
     "user": 657688933001330718,
-    "board": "stagger",
+    "board": "ortho",
     "keys": {
         "f": {
             "row": 0,
@@ -78,12 +78,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "g": {
+        "y": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "y": {
+        "c": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -101,11 +101,6 @@
         "i": {
             "row": 1,
             "col": 9,
-            "finger": "RP"
-        },
-        "/": {
-            "row": 1,
-            "col": 10,
             "finger": "RP"
         },
         "z": {
@@ -138,7 +133,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "g": {
             "row": 2,
             "col": 6,
             "finger": "RI"
