@@ -1,7 +1,7 @@
 {
     "name": "zephyr",
     "user": 990947281857577002,
-    "board": "ortho",
+    "board": "stagger",
     "keys": {
         "q": {
             "row": 0,
