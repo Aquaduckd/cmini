@@ -1,6 +1,6 @@
 {
     "name": "RSTHD",
-    "user": 1085579430623199292,
+    "user": 134510205550592000,
     "board": "ortho",
     "keys": {
         "j": {
@@ -166,7 +166,7 @@
         "e": {
             "row": 3,
             "col": 0,
-            "finger": "TB"
+            "finger": "LT"
         }
     },
     "free": []

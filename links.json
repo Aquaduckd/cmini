@@ -33,7 +33,6 @@
     "balance-12": "https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/#comment-4976",
     "poqtea": "https://www.keyboard-design.com/best-ansi-layouts-conventional.html",
     "aptv3": "https://github.com/Apsu/APT#aptv3-layout",
-    "rsthd": "https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/",
     "uciea": "https://www.keyboard-design.com/best-ansi-layouts-conventional.html",
     "hieamtsrn": "https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/#comment-4976",
     "octa8": "https://github.com/OctahedronV2/Octa8/blob/main/README.md#octa8",
@@ -99,5 +98,6 @@
     "dusk": "https://altlayouts.com/dusk/",
     "dusk-vq": "https://altlayouts.com/dusk/",
     "crescent": "https://github.com/ClemenPine/crescent",
-    "night": "https://luminespire.github.io/night/home.html"
+    "night": "https://luminespire.github.io/night/home.html",
+    "rsthd": "https://simn.me/rsthd/"
 }
