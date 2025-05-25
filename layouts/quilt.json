@@ -1,5 +1,5 @@
 {
-    "name": "salt",
+    "name": "quilt",
     "user": 1286855941295439944,
     "board": "ortho",
     "keys": {
@@ -28,12 +28,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "g": {
+        "w": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -128,12 +128,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        "g": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        "p": {
             "row": 2,
             "col": 6,
             "finger": "RI"
