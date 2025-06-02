@@ -1,5 +1,5 @@
 {
-    "name": "mountains",
+    "name": "mountains-fspeed",
     "user": 132343169068040201,
     "board": "ortho",
     "keys": {
@@ -152,16 +152,6 @@
             "row": 2,
             "col": 9,
             "finger": "RP"
-        },
-        "*": {
-            "row": 3,
-            "col": 0,
-            "finger": "RT"
-        },
-        "r": {
-            "row": 3,
-            "col": 1,
-            "finger": "RT"
         }
     }
 }
