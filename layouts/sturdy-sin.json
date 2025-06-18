@@ -1,9 +1,9 @@
 {
-    "name": "zeal",
+    "name": "sturdy-sin",
     "user": 761732338744557568,
     "board": "ortho",
     "keys": {
-        "p": {
+        "v": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -23,12 +23,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "q": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        ";": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "n": {
+        "s": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -68,22 +68,22 @@
             "col": 2,
             "finger": "LM"
         },
-        "s": {
+        "d": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "k": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "n": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -103,12 +103,12 @@
             "col": 9,
             "finger": "RP"
         },
-        "j": {
+        "z": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "q": {
+        "j": {
             "row": 2,
             "col": 1,
             "finger": "LR"
@@ -128,17 +128,17 @@
             "col": 4,
             "finger": "LI"
         },
-        "k": {
+        "b": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "d": {
+        "h": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        ";": {
+        "'": {
             "row": 2,
             "col": 7,
             "finger": "RM"
