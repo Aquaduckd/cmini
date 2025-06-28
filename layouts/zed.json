@@ -1,5 +1,5 @@
 {
-    "name": "ymir",
+    "name": "zed",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,10 +18,10 @@
             "col": 2,
             "finger": "LM"
         },
-        "'": {
+        "y": {
             "row": 0,
             "col": 3,
-            "finger": "LM"
+            "finger": "LI"
         },
         "\u03bb": {
             "row": 0,
@@ -88,7 +88,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "d": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -133,12 +133,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "'": {
             "row": 2,
             "col": 4,
             "finger": "RI"
         },
-        "d": {
+        "c": {
             "row": 2,
             "col": 5,
             "finger": "RI"
