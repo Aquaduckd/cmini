@@ -1,0 +1,52 @@
+{
+    "name": "panke-vowel-block-punc",
+    "user": 782784290769207336,
+    "board": "ortho",
+    "keys": {
+        "o": {
+            "row": 0,
+            "col": 0,
+            "finger": "LP"
+        },
+        "u": {
+            "row": 0,
+            "col": 1,
+            "finger": "LR"
+        },
+        ";": {
+            "row": 0,
+            "col": 2,
+            "finger": "LM"
+        },
+        "a": {
+            "row": 1,
+            "col": 0,
+            "finger": "LP"
+        },
+        "i": {
+            "row": 1,
+            "col": 1,
+            "finger": "LR"
+        },
+        "e": {
+            "row": 1,
+            "col": 2,
+            "finger": "LM"
+        },
+        ".": {
+            "row": 2,
+            "col": 0,
+            "finger": "LP"
+        },
+        ",": {
+            "row": 2,
+            "col": 1,
+            "finger": "LR"
+        },
+        "/": {
+            "row": 2,
+            "col": 2,
+            "finger": "LM"
+        }
+    }
+}

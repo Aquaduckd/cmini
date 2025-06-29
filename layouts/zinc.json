@@ -1,5 +1,5 @@
 {
-    "name": "ymir",
+    "name": "zinc",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -18,10 +18,10 @@
             "col": 2,
             "finger": "LM"
         },
-        "'": {
+        "y": {
             "row": 0,
             "col": 3,
-            "finger": "LM"
+            "finger": "LI"
         },
         "\u03bb": {
             "row": 0,
@@ -133,7 +133,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "'": {
             "row": 2,
             "col": 4,
             "finger": "RI"
