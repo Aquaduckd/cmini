@@ -1,5 +1,5 @@
 {
-    "name": "naught",
+    "name": "naughty",
     "user": 668065238070984744,
     "board": "ortho",
     "keys": {
@@ -28,7 +28,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "g": {
+        "y": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -68,7 +68,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "y": {
+        "g": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -78,7 +78,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 7,
             "finger": "RM"
@@ -88,12 +88,12 @@
             "col": 8,
             "finger": "RR"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "b": {
+        "v": {
             "row": 2,
             "col": 1,
             "finger": "LR"
