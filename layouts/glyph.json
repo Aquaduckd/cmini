@@ -1,5 +1,5 @@
 {
-    "name": "wasp",
+    "name": "glyph",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "f": {
+        "v": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -138,12 +138,12 @@
             "col": 4,
             "finger": "RI"
         },
-        "w": {
+        "f": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "v": {
+        "w": {
             "row": 2,
             "col": 6,
             "finger": "RI"
