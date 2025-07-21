@@ -1,164 +1,164 @@
 {
-    "name": "vylet-v2",
-    "user": 119825772901957632,
-    "board": "ortho",
+    "name": "liminal",
+    "user": 377291081542533121,
+    "board": "stagger",
     "keys": {
-        "w": {
+        "_": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "o": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "m": {
+        "u": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        ".": {
             "row": 0,
             "col": 3,
-            "finger": "LI"
+            "finger": "LM"
         },
-        "k": {
+        "'": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        ";": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "l": {
+        "q": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "r": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "d": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "j": {
+        "f": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "-": {
+        "v": {
             "row": 0,
             "col": 10,
             "finger": "RP"
         },
-        "r": {
+        "e": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "a": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "i": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "h": {
+        "c": {
             "row": 1,
             "col": 3,
+            "finger": "LI"
+        },
+        "p": {
+            "row": 1,
+            "col": 4,
             "finger": "LI"
         },
         "b": {
             "row": 1,
-            "col": 4,
-            "finger": "LI"
-        },
-        "y": {
-            "row": 1,
             "col": 5,
+            "finger": "RI"
+        },
+        "l": {
+            "row": 1,
+            "col": 6,
             "finger": "RI"
         },
         "n": {
             "row": 1,
-            "col": 6,
-            "finger": "RI"
-        },
-        "a": {
-            "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "t": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "s": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        ",": {
+        "x": {
             "row": 1,
             "col": 10,
             "finger": "RP"
         },
-        "q": {
+        "/": {
             "row": 2,
             "col": 0,
-            "finger": "LP"
-        },
-        "g": {
-            "row": 2,
-            "col": 1,
             "finger": "LR"
         },
-        "d": {
+        ",": {
             "row": 2,
-            "col": 2,
+            "col": 1,
             "finger": "LM"
         },
-        "f": {
+        "w": {
+            "row": 2,
+            "col": 2,
+            "finger": "LI"
+        },
+        "g": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "y": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "h": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "*": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "j": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        ";": {
+        "k": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "z": {
             "row": 2,
             "col": 9,
             "finger": "RP"

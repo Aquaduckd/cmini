@@ -1,5 +1,5 @@
 {
-    "name": "vylet-v2",
+    "name": "vylet-y",
     "user": 119825772901957632,
     "board": "ortho",
     "keys": {
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "z": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -83,7 +83,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "y": {
+        "x": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -138,11 +138,6 @@
             "col": 4,
             "finger": "LI"
         },
-        "z": {
-            "row": 2,
-            "col": 5,
-            "finger": "RI"
-        },
         "*": {
             "row": 2,
             "col": 6,
@@ -162,6 +157,11 @@
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "y": {
+            "row": 3,
+            "col": 0,
+            "finger": "RT"
         }
     }
 }
