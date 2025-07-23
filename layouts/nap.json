@@ -1,5 +1,5 @@
 {
-    "name": "dunk",
+    "name": "nap",
     "user": 668065238070984744,
     "board": "ortho",
     "keys": {
@@ -8,27 +8,27 @@
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "b": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "l": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "j": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "p": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "g": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -58,22 +58,22 @@
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "h": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "m": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "y": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "c": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -98,17 +98,17 @@
             "col": 1,
             "finger": "LR"
         },
-        "k": {
+        "d": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "k": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "l": {
+        "w": {
             "row": 2,
             "col": 6,
             "finger": "RI"
