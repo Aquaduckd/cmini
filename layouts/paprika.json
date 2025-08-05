@@ -1,5 +1,5 @@
 {
-    "name": "volt",
+    "name": "paprika",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -83,7 +83,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        "h": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -138,7 +138,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "h": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"

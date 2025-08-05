@@ -1,9 +1,9 @@
 {
-    "name": "volt-y",
+    "name": "glitch",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
-        "_": {
+        "'": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -23,7 +23,7 @@
             "col": 3,
             "finger": "LM"
         },
-        "'": {
+        "_": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,27 +33,27 @@
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "v": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "l": {
+        "r": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "d": {
+        "l": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "v": {
+        "f": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "f": {
+        "b": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -73,32 +73,32 @@
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "t": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "m": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        "m": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "n": {
+        "c": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "r": {
+        "n": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "t": {
+        "h": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -123,27 +123,27 @@
             "col": 1,
             "finger": "LM"
         },
-        "w": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "g": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "\u0233": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "h": {
+        "g": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "q": {
+        "w": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -153,7 +153,7 @@
             "col": 7,
             "finger": "RM"
         },
-        "k": {
+        "q": {
             "row": 2,
             "col": 8,
             "finger": "RR"
