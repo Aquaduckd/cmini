@@ -1,89 +1,104 @@
 {
-    "name": "chicken-nuggets",
-    "user": 525811617473101824,
-    "board": "ortho",
+    "name": "deuterium-y",
+    "user": 377291081542533121,
+    "board": "stagger",
     "keys": {
-        "q": {
+        "_": {
+            "row": 0,
+            "col": 0,
+            "finger": "LP"
+        },
+        "o": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "y": {
+        "u": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        ".": {
             "row": 0,
             "col": 3,
-            "finger": "LI"
+            "finger": "LM"
         },
-        "k": {
+        "'": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "d": {
+        "r": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "x": {
+        "l": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "b": {
+            "row": 0,
+            "col": 9,
+            "finger": "RP"
+        },
+        "v": {
+            "row": 0,
+            "col": 10,
+            "finger": "RP"
+        },
+        "e": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "a": {
+        "i": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "t": {
+        "c": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "m": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "n": {
+        "d": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "h": {
+        "n": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "r": {
+        "t": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -93,45 +108,60 @@
             "col": 9,
             "finger": "RP"
         },
-        "z": {
+        "x": {
+            "row": 1,
+            "col": 10,
+            "finger": "RP"
+        },
+        "/": {
             "row": 2,
-            "col": 1,
+            "col": 0,
             "finger": "LR"
         },
-        "j": {
+        ",": {
             "row": 2,
-            "col": 2,
+            "col": 1,
             "finger": "LM"
         },
-        "f": {
+        "w": {
             "row": 2,
-            "col": 3,
+            "col": 2,
             "finger": "LI"
         },
         "g": {
             "row": 2,
+            "col": 3,
+            "finger": "LI"
+        },
+        "y": {
+            "row": 2,
+            "col": 4,
+            "finger": "LI"
+        },
+        "h": {
+            "row": 2,
+            "col": 5,
+            "finger": "RI"
+        },
+        "k": {
+            "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "m": {
+        "j": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "l": {
+        "z": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "o": {
-            "row": 3,
-            "col": 0,
-            "finger": "RT"
-        },
-        "u": {
-            "row": 3,
-            "col": 1,
-            "finger": "RT"
+        ";": {
+            "row": 2,
+            "col": 9,
+            "finger": "RP"
         }
     }
 }
