@@ -1,5 +1,5 @@
 {
-    "name": "chicken-wings",
+    "name": "chicken-wings-nou",
     "user": 525811617473101824,
     "board": "ortho",
     "keys": {
@@ -68,7 +68,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "d": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -103,7 +103,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "b": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -122,16 +122,6 @@
             "row": 2,
             "col": 8,
             "finger": "RR"
-        },
-        "u": {
-            "row": 3,
-            "col": 0,
-            "finger": "RT"
-        },
-        "o": {
-            "row": 3,
-            "col": 1,
-            "finger": "RT"
         }
     }
 }
