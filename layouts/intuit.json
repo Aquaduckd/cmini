@@ -1,19 +1,19 @@
 {
-    "name": "monsoon",
+    "name": "intuit",
     "user": 1359836297015070760,
-    "board": "angle",
+    "board": "ortho",
     "keys": {
         "f": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "l": {
+        "d": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "h": {
             "row": 0,
             "col": 2,
             "finger": "LM"
@@ -28,12 +28,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "j": {
+        "b": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -58,12 +58,12 @@
             "col": 0,
             "finger": "LP"
         },
-        "h": {
+        "t": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "r": {
             "row": 1,
             "col": 2,
             "finger": "LM"
@@ -78,7 +78,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "m": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -108,37 +108,37 @@
             "col": 10,
             "finger": "RP"
         },
-        "k": {
-            "row": 2,
-            "col": 0,
-            "finger": "LR"
-        },
-        "m": {
+        "x": {
             "row": 2,
             "col": 1,
+            "finger": "LR"
+        },
+        "l": {
+            "row": 2,
+            "col": 2,
             "finger": "LM"
         },
         "c": {
             "row": 2,
-            "col": 2,
+            "col": 3,
             "finger": "LI"
         },
         "p": {
             "row": 2,
-            "col": 3,
+            "col": 4,
             "finger": "LI"
         },
         "z": {
             "row": 2,
-            "col": 4,
-            "finger": "LI"
+            "col": 0,
+            "finger": "LP"
         },
-        "r": {
+        "k": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "j": {
             "row": 2,
             "col": 6,
             "finger": "RI"
