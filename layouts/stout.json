@@ -1,89 +1,84 @@
 {
-    "name": "glyph",
-    "user": 377291081542533121,
-    "board": "stagger",
+    "name": "stout",
+    "user": 782784290769207336,
+    "board": "ortho",
     "keys": {
-        ";": {
+        "b": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "o": {
+        "l": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "u": {
+        "s": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        ".": {
+        "c": {
             "row": 0,
             "col": 3,
-            "finger": "LM"
+            "finger": "LI"
         },
-        "_": {
+        "k": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "p": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "m": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "r": {
+        "y": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "l": {
+        "/": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "w": {
+        ",": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "v": {
-            "row": 0,
-            "col": 10,
-            "finger": "RP"
-        },
-        "e": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "a": {
+        "r": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "i": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "t": {
+        "h": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "f": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "m": {
+        "w": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -93,57 +88,52 @@
             "col": 6,
             "finger": "RI"
         },
-        "n": {
+        "i": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "s": {
+        "e": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "c": {
+        "a": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
-        },
-        "/": {
+        "'": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
-        ",": {
+        "x": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
-        "k": {
+        "q": {
             "row": 2,
             "col": 2,
-            "finger": "LI"
+            "finger": "LM"
         },
         "g": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "\u0233": {
+        "z": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        ";": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "v": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -153,15 +143,20 @@
             "col": 7,
             "finger": "RM"
         },
-        "z": {
-            "row": 2,
-            "col": 8,
-            "finger": "RR"
-        },
-        "'": {
+        ".": {
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "o": {
+            "row": 3,
+            "col": 0,
+            "finger": "RT"
+        },
+        "u": {
+            "row": 3,
+            "col": 1,
+            "finger": "RT"
         }
     }
 }
