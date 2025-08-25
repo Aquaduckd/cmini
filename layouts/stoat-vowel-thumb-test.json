@@ -1,84 +1,79 @@
 {
-    "name": "deuterium",
-    "user": 377291081542533121,
-    "board": "stagger",
+    "name": "stoat-vowel-thumb-test",
+    "user": 782784290769207336,
+    "board": "ortho",
     "keys": {
-        "_": {
+        "b": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "o": {
+        "l": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "u": {
+        "s": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        ".": {
+        "p": {
             "row": 0,
             "col": 3,
-            "finger": "LM"
+            "finger": "LI"
         },
-        "'": {
+        "c": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "j": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "u": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "r": {
+        "y": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "l": {
+        "f": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "f": {
+        ".": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "v": {
-            "row": 0,
-            "col": 10,
-            "finger": "RP"
-        },
-        "e": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "a": {
+        "r": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "i": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "d": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "v": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -88,62 +83,57 @@
             "col": 5,
             "finger": "RI"
         },
-        "d": {
+        "o": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "n": {
+        "i": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "t": {
+        "h": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "s": {
+        "a": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
-        },
-        ";": {
+        "'": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
-        ",": {
+        "x": {
             "row": 2,
             "col": 1,
+            "finger": "LR"
+        },
+        "q": {
+            "row": 2,
+            "col": 2,
             "finger": "LM"
         },
         "w": {
             "row": 2,
-            "col": 2,
+            "col": 3,
             "finger": "LI"
         },
         "g": {
             "row": 2,
-            "col": 3,
-            "finger": "LI"
-        },
-        "\u0233": {
-            "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "h": {
+        "/": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "k": {
+        ";": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -153,15 +143,20 @@
             "col": 7,
             "finger": "RM"
         },
-        "j": {
+        "k": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "/": {
+        ",": {
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "e": {
+            "row": 3,
+            "col": 0,
+            "finger": "RT"
         }
     }
 }
