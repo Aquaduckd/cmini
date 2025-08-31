@@ -1,5 +1,5 @@
 {
-    "name": "glyph",
+    "name": "glyphy",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -133,7 +133,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "\u0233": {
+        "y": {
             "row": 2,
             "col": 4,
             "finger": "LI"
