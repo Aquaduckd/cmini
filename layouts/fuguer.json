@@ -1,9 +1,9 @@
 {
-    "name": "glyph",
+    "name": "fuguer",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
-        "_": {
+        "/": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -23,7 +23,7 @@
             "col": 3,
             "finger": "LM"
         },
-        "'": {
+        "_": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "f": {
+        "p": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -73,12 +73,12 @@
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "s": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "b": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -98,7 +98,7 @@
             "col": 7,
             "finger": "RM"
         },
-        "s": {
+        "c": {
             "row": 1,
             "col": 8,
             "finger": "RR"
@@ -108,7 +108,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        "'": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -148,17 +148,17 @@
             "col": 6,
             "finger": "RI"
         },
-        "j": {
+        "x": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "z": {
+        "j": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        "/": {
+        "z": {
             "row": 2,
             "col": 9,
             "finger": "RP"
