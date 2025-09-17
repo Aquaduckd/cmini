@@ -1,5 +1,5 @@
 {
-    "name": "manu",
+    "name": "csth2",
     "user": 581630432265895957,
     "board": "ortho",
     "keys": {
@@ -8,22 +8,22 @@
             "col": 0,
             "finger": "LP"
         },
-        "y": {
+        "w": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "g": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "l": {
+        "f": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "v": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "l": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -53,12 +53,12 @@
             "col": 9,
             "finger": "RP"
         },
-        "s": {
+        "c": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "s": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -73,12 +73,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "y": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "x": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -108,22 +108,22 @@
             "col": 0,
             "finger": "LP"
         },
-        "w": {
+        "b": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "g": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "m": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "p": {
             "row": 2,
             "col": 4,
             "finger": "LI"
@@ -133,7 +133,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
