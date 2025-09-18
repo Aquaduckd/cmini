@@ -1,5 +1,5 @@
 {
-    "name": "trio",
+    "name": "tiro",
     "user": 1382706595754020936,
     "board": "angle",
     "keys": {
@@ -43,12 +43,12 @@
             "col": 7,
             "finger": "RI"
         },
-        "l": {
+        "u": {
             "row": 0,
             "col": 8,
             "finger": "RM"
         },
-        "u": {
+        "l": {
             "row": 0,
             "col": 9,
             "finger": "RR"
@@ -108,12 +108,12 @@
             "col": 7,
             "finger": "RI"
         },
-        "r": {
+        "i": {
             "row": 1,
             "col": 8,
             "finger": "RM"
         },
-        "i": {
+        "r": {
             "row": 1,
             "col": 9,
             "finger": "RR"
@@ -163,12 +163,12 @@
             "col": 7,
             "finger": "RI"
         },
-        "w": {
+        "y": {
             "row": 2,
             "col": 8,
             "finger": "RM"
         },
-        "y": {
+        "w": {
             "row": 2,
             "col": 9,
             "finger": "RR"
