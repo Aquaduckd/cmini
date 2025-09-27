@@ -1,39 +1,39 @@
 {
-    "name": "gps2",
+    "name": "gpstest",
     "user": 1297727520518705184,
     "board": "angle",
     "keys": {
-        "b": {
+        "1": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "l": {
+        "2": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "3": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        "4": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "j": {
+        "5": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "'": {
+        "j": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,42 +48,42 @@
             "col": 8,
             "finger": "RR"
         },
-        "q": {
+        "|": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "n": {
+        "6": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "r": {
+        "7": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "8": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "s": {
+        "9": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "g": {
+        "%": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "y": {
+        "\\": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "\u00a6": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -104,46 +104,41 @@
             "finger": "RP"
         },
         "/": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
-        },
-        "x": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "m": {
+        "&": {
             "row": 2,
             "col": 1,
             "finger": "LM"
         },
-        "v": {
+        "=": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "c": {
+        "+": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "?": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "k": {
+        "\u00a3": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "p": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        ";": {
+        "_": {
             "row": 2,
             "col": 7,
             "finger": "RM"
