@@ -1,5 +1,5 @@
 {
-    "name": "tendon26",
+    "name": "tendon26a",
     "user": 773077222189432843,
     "board": "ortho",
     "keys": {
@@ -93,7 +93,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "p": {
+        ".": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -153,7 +153,7 @@
             "col": 5,
             "finger": "RI"
         },
-        ".": {
+        "p": {
             "row": 2,
             "col": 6,
             "finger": "RI"
