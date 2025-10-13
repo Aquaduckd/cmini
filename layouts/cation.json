@@ -1,14 +1,14 @@
 {
-    "name": "ration-v",
+    "name": "cation",
     "user": 602304923098546181,
     "board": "ortho",
     "keys": {
-        "x": {
+        "j": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "b": {
             "row": 0,
             "col": 1,
             "finger": "LR"
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "c": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -73,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "v": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -103,12 +103,12 @@
             "col": 9,
             "finger": "RP"
         },
-        "v": {
+        "w": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "w": {
+        "f": {
             "row": 2,
             "col": 1,
             "finger": "LR"
@@ -123,7 +123,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "j": {
+        "x": {
             "row": 2,
             "col": 4,
             "finger": "LI"
@@ -133,7 +133,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "\u232b": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -152,6 +152,11 @@
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "r": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         }
     }
 }
