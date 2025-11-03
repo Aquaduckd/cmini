@@ -1,9 +1,9 @@
 {
-    "name": "bjourtra",
+    "name": "bhuliknrts",
     "user": 1179652661033836655,
     "board": "angle",
     "keys": {
-        "k": {
+        "b": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -13,22 +13,22 @@
             "col": 1,
             "finger": "LR"
         },
-        "r": {
+        "m": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "m": {
+        "c": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "\u2019": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -53,22 +53,22 @@
             "col": 9,
             "finger": "RP"
         },
-        "t": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "r": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "n": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "s": {
             "row": 1,
             "col": 3,
             "finger": "LI"
@@ -103,12 +103,12 @@
             "col": 9,
             "finger": "RP"
         },
-        "q": {
+        "x": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "x": {
+        "q": {
             "row": 2,
             "col": 1,
             "finger": "LM"
@@ -128,7 +128,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "k": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -138,7 +138,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "/": {
+        ";": {
             "row": 2,
             "col": 7,
             "finger": "RM"
