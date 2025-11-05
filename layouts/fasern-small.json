@@ -1,13 +1,8 @@
 {
-    "name": "small-sern",
+    "name": "fasern-small",
     "user": 782784290769207336,
     "board": "ortho",
     "keys": {
-        ".": {
-            "row": 0,
-            "col": 0,
-            "finger": "LP"
-        },
         "y": {
             "row": 0,
             "col": 1,
@@ -33,7 +28,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -47,11 +42,6 @@
             "row": 0,
             "col": 8,
             "finger": "RR"
-        },
-        "b": {
-            "row": 0,
-            "col": 9,
-            "finger": "RP"
         },
         "a": {
             "row": 1,
@@ -78,12 +68,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "f": {
+        "b": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "m": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -103,11 +93,6 @@
             "col": 9,
             "finger": "RP"
         },
-        ",": {
-            "row": 2,
-            "col": 0,
-            "finger": "LP"
-        },
         "z": {
             "row": 2,
             "col": 1,
@@ -123,7 +108,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "m": {
+        "p": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -138,14 +123,14 @@
             "col": 8,
             "finger": "RR"
         },
-        "'": {
-            "row": 2,
-            "col": 9,
-            "finger": "RP"
+        "h": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         },
         "e": {
             "row": 3,
-            "col": 0,
+            "col": 1,
             "finger": "LT"
         }
     }
