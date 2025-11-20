@@ -1,5 +1,5 @@
 {
-    "name": "sturdy-nova-mod",
+    "name": "nova-test",
     "user": 554549441458077697,
     "board": "angle",
     "keys": {
@@ -153,14 +153,19 @@
             "col": 7,
             "finger": "RM"
         },
-        "/": {
+        ".": {
             "row": 2,
             "col": 8,
             "finger": "RP"
         },
-        ".": {
+        "\u21e7": {
             "row": 2,
             "col": 9,
+            "finger": "RP"
+        },
+        "/": {
+            "row": 2,
+            "col": 10,
             "finger": "RP"
         }
     }
