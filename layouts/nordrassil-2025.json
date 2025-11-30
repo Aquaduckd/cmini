@@ -1,84 +1,79 @@
 {
-    "name": "fugue",
-    "user": 377291081542533121,
-    "board": "stagger",
+    "name": "nordrassil-2025",
+    "user": 668490626987327490,
+    "board": "ortho",
     "keys": {
         "j": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "o": {
+        "y": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "u": {
+        "o": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "y": {
+        "u": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "-": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "g": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "r": {
+        "n": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "l": {
+        "w": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "p": {
+        "k": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "v": {
-            "row": 0,
-            "col": 10,
-            "finger": "RP"
-        },
-        "e": {
+        "h": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "a": {
+        "i": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "i": {
+        "e": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "s": {
+        "a": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        ".": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -93,75 +88,85 @@
             "col": 6,
             "finger": "RI"
         },
-        "n": {
+        "r": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "t": {
+        "s": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "c": {
+        "p": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        ".": {
+        "v": {
             "row": 1,
             "col": 10,
             "finger": "RP"
         },
-        "/": {
+        "x": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
-        ",": {
+        "/": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
-        "k": {
+        "'": {
             "row": 2,
             "col": 2,
-            "finger": "LI"
+            "finger": "LM"
         },
-        "g": {
+        ",": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        ";": {
             "row": 2,
             "col": 4,
-            "finger": "RI"
+            "finger": "LI"
         },
-        "h": {
+        "z": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "w": {
+        "c": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "_": {
+        "l": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "q": {
+        "f": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ";": {
+        "b": {
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "*": {
+            "row": 3,
+            "col": 0,
+            "finger": "RT"
+        },
+        "t": {
+            "row": 3,
+            "col": 1,
+            "finger": "RT"
         }
     }
 }
