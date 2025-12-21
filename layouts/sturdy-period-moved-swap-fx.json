@@ -1,5 +1,5 @@
 {
-    "name": "sturdy-nova",
+    "name": "sturdy-period-moved-swap-fx",
     "user": 554549441458077697,
     "board": "angle",
     "keys": {
@@ -28,25 +28,20 @@
             "col": 4,
             "finger": "LI"
         },
-        "6": {
-            "row": 0,
-            "col": 5,
-            "finger": "RI"
-        },
         "x": {
             "row": 0,
             "col": 6,
-            "finger": "RI"
+            "finger": "RM"
         },
         "o": {
             "row": 0,
             "col": 7,
-            "finger": "RM"
+            "finger": "RR"
         },
         "u": {
             "row": 0,
             "col": 8,
-            "finger": "RR"
+            "finger": "RP"
         },
         "j": {
             "row": 0,
@@ -116,12 +111,12 @@
         "k": {
             "row": 2,
             "col": 0,
-            "finger": "LP"
+            "finger": "LR"
         },
-        "z": {
+        "q": {
             "row": 2,
             "col": 1,
-            "finger": "LR"
+            "finger": "LM"
         },
         "g": {
             "row": 2,
@@ -133,17 +128,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "z": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "h": {
+        "b": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "h": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -156,7 +151,7 @@
         ";": {
             "row": 2,
             "col": 8,
-            "finger": "RP"
+            "finger": "RR"
         },
         ",": {
             "row": 2,
