@@ -1,19 +1,19 @@
 {
-    "name": "bjourtra4",
-    "user": 1179652661033836655,
-    "board": "angle",
+    "name": "flame-thumbr",
+    "user": 782784290769207336,
+    "board": "ortho",
     "keys": {
         "v": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "l": {
+        "d": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "r": {
+        "p": {
             "row": 0,
             "col": 2,
             "finger": "LM"
@@ -21,7 +21,7 @@
         "w": {
             "row": 0,
             "col": 3,
-            "finger": "LM"
+            "finger": "LI"
         },
         "f": {
             "row": 0,
@@ -78,7 +78,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "x": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -103,42 +103,42 @@
             "col": 9,
             "finger": "RP"
         },
-        "j": {
+        "z": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
-        "x": {
+        "k": {
             "row": 2,
             "col": 1,
+            "finger": "LR"
+        },
+        "b": {
+            "row": 2,
+            "col": 2,
             "finger": "LM"
         },
         "g": {
             "row": 2,
-            "col": 2,
-            "finger": "LI"
-        },
-        "p": {
-            "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "'": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "k": {
+        "j": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "d": {
+        "l": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "/": {
             "row": 2,
             "col": 7,
             "finger": "RM"
@@ -152,6 +152,11 @@
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "r": {
+            "row": 3,
+            "col": 0,
+            "finger": "LT"
         }
     }
 }
