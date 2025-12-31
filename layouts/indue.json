@@ -1,39 +1,39 @@
 {
-    "name": "bounce",
-    "user": 618857579170234398,
+    "name": "indue",
+    "user": 782784290769207336,
     "board": "ortho",
     "keys": {
-        "v": {
+        "b": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "y": {
+        "f": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "m": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "m": {
+        "c": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "w": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "/": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "u": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -43,22 +43,22 @@
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        ".": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "y": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "s": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "s": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -68,22 +68,17 @@
             "col": 2,
             "finger": "LM"
         },
-        "h": {
+        "d": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "*": {
+        "g": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "#": {
-            "row": 1,
-            "col": 5,
-            "finger": "RI"
-        },
-        "n": {
+        "e": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -93,14 +88,19 @@
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "i": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "h": {
             "row": 1,
             "col": 9,
+            "finger": "RP"
+        },
+        "z": {
+            "row": 1,
+            "col": 10,
             "finger": "RP"
         },
         "x": {
@@ -108,57 +108,52 @@
             "col": 0,
             "finger": "LP"
         },
-        "g": {
+        "v": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "w": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "f": {
+        "p": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "'": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
-            "row": 2,
-            "col": 5,
-            "finger": "RI"
-        },
-        "p": {
+        ";": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "q": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        ";": {
+        ",": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "j": {
             "row": 2,
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "l": {
             "row": 3,
             "col": 0,
             "finger": "LT"
         },
-        "l": {
+        "r": {
             "row": 3,
             "col": 1,
             "finger": "LT"
