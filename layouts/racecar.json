@@ -1,9 +1,9 @@
 {
-    "name": "bounce",
-    "user": 618857579170234398,
+    "name": "racecar",
+    "user": 237981623847485451,
     "board": "ortho",
     "keys": {
-        "v": {
+        "@": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -13,27 +13,27 @@
             "col": 1,
             "finger": "LR"
         },
-        "m": {
+        "d": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "l": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "v": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "w": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "b": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,17 +48,17 @@
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        ".": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "s": {
+        "r": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "y": {
+        "s": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -72,6 +72,16 @@
             "row": 1,
             "col": 3,
             "finger": "LI"
+        },
+        "b": {
+            "row": 1,
+            "col": 4,
+            "finger": "LI"
+        },
+        "y": {
+            "row": 1,
+            "col": 5,
+            "finger": "RI"
         },
         "n": {
             "row": 1,
@@ -98,27 +108,27 @@
             "col": 0,
             "finger": "LP"
         },
-        "w": {
+        "g": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "g": {
+        "k": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "f": {
+        "m": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "j": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "x": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -133,25 +143,15 @@
             "col": 7,
             "finger": "RM"
         },
-        ";": {
+        "z": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        ",": {
             "row": 2,
             "col": 9,
             "finger": "RP"
-        },
-        "l": {
-            "row": 3,
-            "col": 0,
-            "finger": "LT"
-        },
-        "r": {
-            "row": 3,
-            "col": 1,
-            "finger": "LT"
         }
     }
 }
