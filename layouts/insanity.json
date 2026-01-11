@@ -1,5 +1,5 @@
 {
-    "name": "bolt",
+    "name": "insanity",
     "user": 1297727520518705184,
     "board": "stagger",
     "keys": {
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "m": {
+        "d": {
             "row": 0,
             "col": 3,
             "finger": "LM"
@@ -43,17 +43,17 @@
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "m": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "b": {
+        "u": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        ",": {
             "row": 0,
             "col": 10,
             "finger": "RP"
@@ -78,7 +78,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "w": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -98,12 +98,12 @@
             "col": 7,
             "finger": "RM"
         },
-        "i": {
+        "n": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "n": {
+        "i": {
             "row": 1,
             "col": 9,
             "finger": "RP"
@@ -116,14 +116,14 @@
         "-": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
-        "d": {
+        "b": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "w": {
+        "p": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -148,7 +148,7 @@
             "col": 7,
             "finger": "RM"
         },
-        ",": {
+        "x": {
             "row": 2,
             "col": 8,
             "finger": "RR"
