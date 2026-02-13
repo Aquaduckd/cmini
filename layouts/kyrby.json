@@ -1,5 +1,5 @@
 {
-    "name": "magic-sturdy-rowstag",
+    "name": "kyrby",
     "user": 525231824465690645,
     "board": "angle",
     "keys": {
@@ -48,9 +48,14 @@
             "col": 8,
             "finger": "RR"
         },
-        "@": {
+        "q": {
             "row": 0,
             "col": 9,
+            "finger": "RP"
+        },
+        ",": {
+            "row": 0,
+            "col": 10,
             "finger": "RP"
         },
         "s": {
@@ -103,7 +108,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "q": {
+        "'": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -143,7 +148,7 @@
             "col": 6,
             "finger": "RI"
         },
-        ",": {
+        "_": {
             "row": 2,
             "col": 7,
             "finger": "RM"
@@ -153,7 +158,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "'": {
+        "@": {
             "row": 2,
             "col": 9,
             "finger": "RP"

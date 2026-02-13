@@ -1,5 +1,5 @@
 {
-    "name": "magic-sturdy-rowstag",
+    "name": "magic-sturdy-JIS",
     "user": 525231824465690645,
     "board": "angle",
     "keys": {
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        "@": {
+        "q": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -103,7 +103,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "q": {
+        "_": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -157,6 +157,11 @@
             "row": 2,
             "col": 9,
             "finger": "RP"
+        },
+        "@": {
+            "row": 3,
+            "col": 0,
+            "finger": "RT"
         }
     }
 }
