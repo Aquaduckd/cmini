@@ -1,5 +1,5 @@
 {
-    "name": "steady",
+    "name": "magic-sthudy",
     "user": 525231824465690645,
     "board": "ortho",
     "keys": {
@@ -23,17 +23,17 @@
             "col": 3,
             "finger": "LI"
         },
-        "x": {
+        "p": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "q": {
+        "x": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "f": {
+        "*": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,7 +48,7 @@
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "q": {
             "row": 0,
             "col": 9,
             "finger": "RP"
@@ -78,7 +78,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "b": {
+        "f": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -103,7 +103,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "-": {
+        ".": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -138,7 +138,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "b": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -158,9 +158,14 @@
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "#": {
             "row": 3,
             "col": 0,
+            "finger": "LT"
+        },
+        "r": {
+            "row": 3,
+            "col": 1,
             "finger": "LT"
         }
     }
