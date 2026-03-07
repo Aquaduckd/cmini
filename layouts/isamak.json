@@ -1,9 +1,9 @@
 {
-    "name": "redbird",
+    "name": "isamak",
     "user": 1297727520518705184,
     "board": "stagger",
     "keys": {
-        "b": {
+        "l": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -13,17 +13,17 @@
             "col": 1,
             "finger": "LR"
         },
-        "r": {
+        "n": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "l": {
+        "b": {
             "row": 0,
             "col": 3,
             "finger": "LM"
         },
-        "f": {
+        "v": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -53,7 +53,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "n": {
+        "r": {
             "row": 1,
             "col": 0,
             "finger": "LP"
@@ -78,7 +78,7 @@
             "col": 4,
             "finger": "LI"
         },
-        "g": {
+        "c": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -103,7 +103,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        "z": {
             "row": 2,
             "col": 0,
             "finger": "LP"
@@ -113,7 +113,7 @@
             "col": 1,
             "finger": "LR"
         },
-        "v": {
+        "f": {
             "row": 2,
             "col": 2,
             "finger": "LI"
@@ -123,7 +123,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "x": {
             "row": 2,
             "col": 4,
             "finger": "LI"
@@ -133,7 +133,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "c": {
+        "g": {
             "row": 2,
             "col": 6,
             "finger": "RI"
