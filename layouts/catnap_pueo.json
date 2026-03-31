@@ -1,5 +1,5 @@
 {
-    "name": "catnap",
+    "name": "catnap_pueo",
     "user": 259380606759206922,
     "board": "ortho",
     "keys": {
@@ -13,14 +13,14 @@
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "g": {
             "row": 0,
-            "col": 4,
+            "col": 3,
             "finger": "LI"
         },
         "z": {
             "row": 0,
-            "col": 5,
+            "col": 6,
             "finger": "RI"
         },
         "j": {
@@ -53,12 +53,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "g": {
+        "w": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "m": {
+        "k": {
             "row": 1,
             "col": 5,
             "finger": "RI"
@@ -83,11 +83,6 @@
             "col": 9,
             "finger": "RP"
         },
-        "y": {
-            "row": 2,
-            "col": 0,
-            "finger": "LP"
-        },
         "o": {
             "row": 2,
             "col": 1,
@@ -103,12 +98,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "y": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "k": {
+        "m": {
             "row": 2,
             "col": 5,
             "finger": "RI"
@@ -127,11 +122,6 @@
             "row": 2,
             "col": 8,
             "finger": "RR"
-        },
-        "b": {
-            "row": 2,
-            "col": 9,
-            "finger": "RP"
         },
         "r": {
             "row": 3,
