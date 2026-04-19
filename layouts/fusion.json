@@ -1,14 +1,14 @@
 {
-    "name": "zaika",
-    "user": 1297727520518705184,
+    "name": "fusion",
+    "user": 222199466524934145,
     "board": "ortho",
     "keys": {
-        "b": {
+        "y": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "v": {
+        "r": {
             "row": 0,
             "col": 1,
             "finger": "LR"
@@ -18,12 +18,12 @@
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "z": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "q": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,7 +33,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "y": {
+        "b": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,32 +48,32 @@
             "col": 8,
             "finger": "RR"
         },
-        "-": {
+        "j": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "n": {
+        "s": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "t": {
+        "n": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "r": {
+        "h": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "h": {
+        "t": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "m": {
+        "k": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -88,7 +88,7 @@
             "col": 6,
             "finger": "RI"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 7,
             "finger": "RM"
@@ -98,47 +98,47 @@
             "col": 8,
             "finger": "RR"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        "f": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "z": {
+        "x": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "j": {
+        "m": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "f": {
+        "d": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "v": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "g": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "g": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "/": {
+        ".": {
             "row": 2,
             "col": 7,
             "finger": "RM"
@@ -148,15 +148,10 @@
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "/": {
             "row": 2,
             "col": 9,
             "finger": "RP"
-        },
-        "s": {
-            "row": 3,
-            "col": 0,
-            "finger": "LT"
         }
     }
 }
