@@ -1,164 +1,159 @@
 {
-    "name": "vylet-v2",
-    "user": 119825772901957632,
-    "board": "ortho",
+    "name": "aeir-fmstd",
+    "user": 383900587877597186,
+    "board": "angle",
     "keys": {
-        "w": {
+        "'": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "u": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "m": {
+        "y": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        ";": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "j": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "l": {
+        "x": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "w": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "p": {
             "row": 0,
             "col": 8,
             "finger": "RR"
         },
-        "j": {
+        "k": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "-": {
-            "row": 0,
-            "col": 10,
-            "finger": "RP"
-        },
-        "r": {
+        "a": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "e": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "i": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "h": {
+        "r": {
             "row": 1,
             "col": 3,
+            "finger": "LI"
+        },
+        ".": {
+            "row": 1,
+            "col": 4,
             "finger": "LI"
         },
         "f": {
             "row": 1,
-            "col": 4,
-            "finger": "LI"
-        },
-        "x": {
-            "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "n": {
+        "m": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "s": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "e": {
+        "t": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "d": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "q": {
+        "|": {
             "row": 2,
             "col": 0,
-            "finger": "LP"
-        },
-        "v": {
-            "row": 2,
-            "col": 1,
             "finger": "LR"
         },
-        "g": {
+        ",": {
             "row": 2,
-            "col": 2,
+            "col": 1,
             "finger": "LM"
         },
-        "d": {
+        "l": {
+            "row": 2,
+            "col": 2,
+            "finger": "LI"
+        },
+        "c": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "z": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "/": {
+        "n": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        ",": {
+        "h": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "b": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        ";": {
+        "v": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "g": {
             "row": 2,
             "col": 9,
             "finger": "RP"
         },
-        "y": {
+        "o": {
             "row": 3,
             "col": 0,
             "finger": "RT"
