@@ -1,24 +1,24 @@
 {
-    "name": "orian-test",
+    "name": "hadriantest",
     "user": 1498496945810047148,
     "board": "ortho",
     "keys": {
-        ",": {
+        "y": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "u": {
+        ",": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "o": {
+        "\\": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "[": {
+        "r": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -53,17 +53,22 @@
             "col": 9,
             "finger": "RP"
         },
-        "i": {
+        "`": {
+            "row": 0,
+            "col": 10,
+            "finger": "RP"
+        },
+        "u": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "e": {
+        "i": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 2,
             "finger": "LM"
@@ -73,7 +78,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "l": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -108,22 +113,22 @@
             "col": 10,
             "finger": "RP"
         },
-        ".": {
+        "[": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "/": {
+        ".": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "'": {
+        "]": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "\\": {
+        "/": {
             "row": 2,
             "col": 3,
             "finger": "LI"
@@ -158,15 +163,25 @@
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "_": {
+            "row": 2,
+            "col": 10,
+            "finger": "RP"
+        },
+        "a": {
             "row": 3,
             "col": 0,
-            "finger": "LT"
+            "finger": "RT"
         },
-        "l": {
+        "o": {
             "row": 3,
             "col": 1,
-            "finger": "LT"
+            "finger": "RT"
+        },
+        "'": {
+            "row": 3,
+            "col": 2,
+            "finger": "RT"
         }
     }
 }
