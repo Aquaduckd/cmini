@@ -1,7 +1,7 @@
 {
-    "name": "sthenic-colstag",
+    "name": "stonc",
     "user": 237981623847485451,
-    "board": "ortho",
+    "board": "angle",
     "keys": {
         "b": {
             "row": 0,
@@ -18,27 +18,27 @@
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "y": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "p": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "v": {
+        "q": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "j": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "a": {
             "row": 0,
             "col": 7,
             "finger": "RM"
@@ -73,22 +73,22 @@
             "col": 3,
             "finger": "LI"
         },
-        "y": {
+        "f": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "f": {
+        "z": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "m": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "o": {
             "row": 1,
             "col": 7,
             "finger": "RM"
@@ -103,37 +103,37 @@
             "col": 9,
             "finger": "RP"
         },
-        "z": {
-            "row": 2,
-            "col": 0,
-            "finger": "LP"
-        },
         "k": {
             "row": 2,
-            "col": 1,
+            "col": 0,
             "finger": "LR"
         },
         "x": {
             "row": 2,
-            "col": 2,
+            "col": 1,
             "finger": "LM"
         },
-        "p": {
+        "w": {
+            "row": 2,
+            "col": 2,
+            "finger": "LI"
+        },
+        "g": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "q": {
+        "v": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "l": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "l": {
+        "h": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -143,7 +143,7 @@
             "col": 7,
             "finger": "RM"
         },
-        "/": {
+        "-": {
             "row": 2,
             "col": 8,
             "finger": "RR"
