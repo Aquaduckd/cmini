@@ -1,39 +1,39 @@
 {
-    "name": "vylet",
-    "user": 119825772901957632,
+    "name": "strongp",
+    "user": 1004139554682441779,
     "board": "ortho",
     "keys": {
-        "w": {
+        "x": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "c": {
+        "k": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "m": {
+        "n": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "p": {
+        "d": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "k": {
+        "z": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "'": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "l": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -48,37 +48,32 @@
             "col": 8,
             "finger": "RR"
         },
-        "j": {
+        ",": {
             "row": 0,
             "col": 9,
             "finger": "RP"
         },
-        "-": {
-            "row": 0,
-            "col": 10,
-            "finger": "RP"
-        },
-        "r": {
+        "s": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "s": {
+        "t": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "r": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "h": {
+        "g": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "m": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -88,7 +83,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "n": {
+        "h": {
             "row": 1,
             "col": 6,
             "finger": "RI"
@@ -108,47 +103,42 @@
             "col": 9,
             "finger": "RP"
         },
-        ",": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
-        },
-        "q": {
+        "v": {
             "row": 2,
             "col": 0,
             "finger": "LP"
         },
-        "g": {
+        "b": {
             "row": 2,
             "col": 1,
             "finger": "LR"
         },
-        "v": {
+        "l": {
             "row": 2,
             "col": 2,
             "finger": "LM"
         },
-        "d": {
+        "c": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "w": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        "j": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "*": {
+        "p": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        "q": {
             "row": 2,
             "col": 7,
             "finger": "RM"
