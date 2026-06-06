@@ -1,29 +1,29 @@
 {
-    "name": "SantaClausE",
-    "user": 1382706595754020936,
-    "board": "ortho",
+    "name": "no-name-yet-but-its-good-also-nokwts-fingering-repeat-with-rules-nl-rn-u_apostrophe-ys",
+    "user": 383900587877597186,
+    "board": "angle",
     "keys": {
-        "v": {
+        "k": {
             "row": 0,
             "col": 0,
             "finger": "LP"
         },
-        "r": {
+        "\u2605": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "d": {
+        "f": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "y": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "b": {
+        "w": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -33,17 +33,17 @@
             "col": 5,
             "finger": "RI"
         },
-        "h": {
+        "j": {
             "row": 0,
             "col": 6,
             "finger": "RI"
         },
-        "o": {
+        "u": {
             "row": 0,
             "col": 7,
             "finger": "RM"
         },
-        "y": {
+        "o": {
             "row": 0,
             "col": 8,
             "finger": "RR"
@@ -53,102 +53,102 @@
             "col": 9,
             "finger": "RP"
         },
-        "s": {
+        "t": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "n": {
+        "m": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "t": {
+        "s": {
             "row": 1,
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "d": {
             "row": 1,
             "col": 3,
             "finger": "LI"
         },
-        "f": {
+        "g": {
             "row": 1,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "x": {
             "row": 1,
             "col": 5,
             "finger": "RI"
         },
-        "l": {
+        "r": {
             "row": 1,
             "col": 6,
             "finger": "RI"
         },
-        "a": {
+        "i": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "u": {
+        "a": {
             "row": 1,
             "col": 8,
             "finger": "RR"
         },
-        "i": {
+        "h": {
             "row": 1,
             "col": 9,
             "finger": "RP"
         },
-        "x": {
-            "row": 2,
-            "col": 0,
-            "finger": "LP"
-        },
         "z": {
             "row": 2,
-            "col": 1,
+            "col": 0,
             "finger": "LR"
         },
-        "k": {
+        "v": {
             "row": 2,
-            "col": 2,
+            "col": 1,
             "finger": "LM"
         },
         "p": {
             "row": 2,
+            "col": 2,
+            "finger": "LI"
+        },
+        "c": {
+            "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "b": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        ";": {
+        "l": {
             "row": 2,
             "col": 5,
             "finger": "RI"
         },
-        "m": {
+        "n": {
             "row": 2,
             "col": 6,
             "finger": "RI"
         },
-        "'": {
+        ",": {
             "row": 2,
             "col": 7,
             "finger": "RM"
         },
-        "/": {
+        "?": {
             "row": 2,
             "col": 8,
             "finger": "RR"
         },
-        ",": {
+        "'": {
             "row": 2,
             "col": 9,
             "finger": "RP"
