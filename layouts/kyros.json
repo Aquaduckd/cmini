@@ -1,5 +1,5 @@
 {
-    "name": "kairos",
+    "name": "kyros",
     "user": 82004107568615424,
     "board": "stagger",
     "keys": {
@@ -28,12 +28,12 @@
             "col": 4,
             "finger": "LI"
         },
-        "x": {
+        "z": {
             "row": 0,
             "col": 5,
             "finger": "RI"
         },
-        "j": {
+        "f": {
             "row": 0,
             "col": 6,
             "finger": "RI"
@@ -73,7 +73,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "w": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -108,7 +108,7 @@
             "col": 10,
             "finger": "RP"
         },
-        "z": {
+        "x": {
             "row": 2,
             "col": 0,
             "finger": "LP"
@@ -128,12 +128,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "j": {
             "row": 2,
             "col": 4,
             "finger": "LI"
         },
-        "f": {
+        "p": {
             "row": 2,
             "col": 5,
             "finger": "RI"
