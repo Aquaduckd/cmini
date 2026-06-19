@@ -1,5 +1,5 @@
 {
-    "name": "fugue",
+    "name": "wisp",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
@@ -23,12 +23,12 @@
             "col": 3,
             "finger": "LI"
         },
-        "/": {
+        "_": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "z": {
+        ",": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -78,7 +78,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "'": {
+        "p": {
             "row": 1,
             "col": 4,
             "finger": "LI"
@@ -108,7 +108,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "_": {
+        "z": {
             "row": 1,
             "col": 10,
             "finger": "RP"
@@ -118,7 +118,7 @@
             "col": 0,
             "finger": "LR"
         },
-        ",": {
+        ".": {
             "row": 2,
             "col": 1,
             "finger": "LM"
@@ -133,7 +133,7 @@
             "col": 3,
             "finger": "LI"
         },
-        "p": {
+        "'": {
             "row": 2,
             "col": 4,
             "finger": "RI"
@@ -158,7 +158,7 @@
             "col": 8,
             "finger": "RR"
         },
-        ".": {
+        "/": {
             "row": 2,
             "col": 9,
             "finger": "RP"
