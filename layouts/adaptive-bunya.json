@@ -1,6 +1,6 @@
 {
-    "name": "bunya_repeat",
-    "user": 525231824465690645,
+    "name": "adaptive-bunya",
+    "user": 184412255822020608,
     "board": "ortho",
     "keys": {
         "b": {
@@ -13,17 +13,17 @@
             "col": 1,
             "finger": "LR"
         },
-        "m": {
+        "@": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "c": {
+        "g": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "w": {
             "row": 0,
             "col": 4,
             "finger": "LI"
@@ -103,11 +103,6 @@
             "col": 9,
             "finger": "RP"
         },
-        ";": {
-            "row": 1,
-            "col": 10,
-            "finger": "RP"
-        },
         "x": {
             "row": 2,
             "col": 0,
@@ -123,12 +118,12 @@
             "col": 2,
             "finger": "LM"
         },
-        "g": {
+        "c": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "w": {
+        "z": {
             "row": 2,
             "col": 4,
             "finger": "LI"
@@ -138,7 +133,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "@": {
+        "m": {
             "row": 2,
             "col": 6,
             "finger": "RI"
