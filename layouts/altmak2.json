@@ -1,6 +1,6 @@
 {
-    "name": "altmak",
-    "user": 1471688550633308210,
+    "name": "altmak2",
+    "user": 990947281857577002,
     "board": "stagger",
     "keys": {
         "b": {
@@ -21,7 +21,7 @@
         "m": {
             "row": 0,
             "col": 3,
-            "finger": "LI"
+            "finger": "LM"
         },
         "x": {
             "row": 0,
@@ -111,12 +111,12 @@
         "v": {
             "row": 2,
             "col": 0,
-            "finger": "LR"
+            "finger": "LP"
         },
         "k": {
             "row": 2,
             "col": 1,
-            "finger": "LM"
+            "finger": "LR"
         },
         "h": {
             "row": 2,
