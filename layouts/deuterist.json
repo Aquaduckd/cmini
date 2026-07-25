@@ -1,9 +1,9 @@
 {
-    "name": "deuterium",
+    "name": "deuterist",
     "user": 377291081542533121,
     "board": "stagger",
     "keys": {
-        "_": {
+        ".": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -18,7 +18,7 @@
             "col": 2,
             "finger": "LM"
         },
-        "\u0233": {
+        "y": {
             "row": 0,
             "col": 3,
             "finger": "LI"
@@ -28,7 +28,7 @@
             "col": 4,
             "finger": "LI"
         },
-        ".": {
+        "x": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -58,12 +58,12 @@
             "col": 10,
             "finger": "RP"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 1,
             "finger": "LR"
@@ -108,7 +108,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "x": {
+        "_": {
             "row": 1,
             "col": 10,
             "finger": "RP"
