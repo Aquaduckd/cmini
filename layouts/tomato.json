@@ -1,5 +1,5 @@
 {
-    "name": "sprint",
+    "name": "tomato",
     "user": 226128695377526784,
     "board": "angle",
     "keys": {
@@ -8,27 +8,27 @@
             "col": 0,
             "finger": "LP"
         },
-        "m": {
+        "l": {
             "row": 0,
             "col": 1,
             "finger": "LR"
         },
-        "l": {
+        "m": {
             "row": 0,
             "col": 2,
             "finger": "LM"
         },
-        "w": {
+        "c": {
             "row": 0,
             "col": 3,
             "finger": "LI"
         },
-        "v": {
+        "g": {
             "row": 0,
             "col": 4,
             "finger": "LI"
         },
-        "j": {
+        "x": {
             "row": 0,
             "col": 5,
             "finger": "RI"
@@ -53,17 +53,17 @@
             "col": 9,
             "finger": "RP"
         },
-        "s": {
+        "n": {
             "row": 1,
             "col": 0,
             "finger": "LP"
         },
-        "t": {
+        "r": {
             "row": 1,
             "col": 1,
             "finger": "LR"
         },
-        "n": {
+        "t": {
             "row": 1,
             "col": 2,
             "finger": "LM"
@@ -108,27 +108,27 @@
             "col": 10,
             "finger": "RP"
         },
-        "x": {
+        "z": {
             "row": 2,
             "col": 0,
             "finger": "LR"
         },
-        "k": {
+        "v": {
             "row": 2,
             "col": 1,
             "finger": "LM"
         },
-        "c": {
+        "p": {
             "row": 2,
             "col": 2,
             "finger": "LI"
         },
-        "g": {
+        "w": {
             "row": 2,
             "col": 3,
             "finger": "LI"
         },
-        "z": {
+        "j": {
             "row": 2,
             "col": 4,
             "finger": "LI"
@@ -138,7 +138,7 @@
             "col": 5,
             "finger": "RI"
         },
-        "p": {
+        "k": {
             "row": 2,
             "col": 6,
             "finger": "RI"
@@ -158,7 +158,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "r": {
+        "s": {
             "row": 3,
             "col": 0,
             "finger": "RT"
