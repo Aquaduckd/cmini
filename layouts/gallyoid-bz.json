@@ -1,9 +1,9 @@
 {
-    "name": "gallyoid",
+    "name": "gallyoid-bz",
     "user": 1215831841638977609,
     "board": "ortho",
     "keys": {
-        "b": {
+        "z": {
             "row": 0,
             "col": 0,
             "finger": "LP"
@@ -103,7 +103,7 @@
             "col": 9,
             "finger": "RP"
         },
-        "z": {
+        "b": {
             "row": 2,
             "col": 0,
             "finger": "LP"
