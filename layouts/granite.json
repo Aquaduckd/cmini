@@ -1,5 +1,5 @@
 {
-    "name": "standby",
+    "name": "granite",
     "user": 226128695377526784,
     "board": "ortho",
     "keys": {
@@ -28,12 +28,12 @@
             "col": 6,
             "finger": "RI"
         },
-        "e": {
+        "a": {
             "row": 1,
             "col": 7,
             "finger": "RM"
         },
-        "a": {
+        "e": {
             "row": 1,
             "col": 8,
             "finger": "RR"
