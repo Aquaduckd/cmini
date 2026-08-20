@@ -2,7 +2,7 @@ import string
 from typing import Dict
 
 # Bot triggers
-TRIGGERS = ['!dmini']
+TRIGGERS = ['!amini', "!bmini", "!cmini", "!dvormini", "!cnini", "!dmini"]
 
 # Json type
 JSON = Dict[str, any]

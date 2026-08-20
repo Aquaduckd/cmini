@@ -78,9 +78,9 @@ async def on_message(message: discord.Message):
 
     # Trigger only
     if not command:
-        reply = 'Try `!dmini help`'
+        reply = 'Try `!cmini help`'
     elif command in ["gh", "github"]:
-        reply = "<https://github.com/Aquaduckd/cmini>"
+        reply = "<https://github.com/Apsu/cmini>"
     elif command == "akl":
         mod = import_module('cmds.akl')
         reply = mod.exec(bot)

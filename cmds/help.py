@@ -47,7 +47,7 @@ def exec(message: Message):
 
             cmds.append(cmd)
 
-        lines = ['Usage: `!dmini (command) [args]`']
+        lines = ['Usage: `!cmini (command) [args]`']
         lines.append('```')
 
         cols = divide(2, cmds)
