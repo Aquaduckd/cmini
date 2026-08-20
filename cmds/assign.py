@@ -35,7 +35,8 @@ def exec(message: Message):
             temp_id = target
 
         ll.user = temp_id
-        memory.add(ll)
+        if not memory.update(ll, id=user, admin=True):
+            return f'Error: failed to assign `{name}`'
         return f'{name} has been assigned by {user_name} to {temp_name}'
     else:
         return f'Unauthorized'

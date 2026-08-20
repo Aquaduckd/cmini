@@ -31,16 +31,16 @@ def _write_token() -> str:
         return ''
 
 
-def _headers(*, user: int | None = None, admin: bool = False) -> dict[str, str]:
+def _headers() -> dict[str, str]:
     headers = {'Accept': 'application/json', 'Content-Type': 'application/json'}
     token = _write_token()
     if token:
         headers['Authorization'] = f'Bearer {token}'
-    if user is not None:
-        headers['X-User-Id'] = str(user)
-    if admin:
-        headers['X-Admin'] = 'true'
     return headers
+
+
+def _owned(ll: Layout, *, id: int, admin: bool = False) -> bool:
+    return admin or int(ll.user) == int(id)
 
 
 def _layout_url(name: str) -> str:
@@ -141,7 +141,7 @@ def all_layouts() -> list[Layout]:
 
 
 def add(ll: Layout) -> bool:
-    status, payload = _request('POST', f'{BASE}/v1/layouts', data=to_dict(ll), headers=_headers(user=ll.user))
+    status, payload = _request('POST', f'{BASE}/v1/layouts', data=to_dict(ll))
     if status == 409:
         return False
     if status not in (200, 201):
@@ -150,8 +150,28 @@ def add(ll: Layout) -> bool:
     return True
 
 
+def update(ll: Layout, *, id: int, admin: bool = False) -> bool:
+    existing = get(ll.name)
+    if existing is None:
+        return False
+    if not _owned(existing, id=id, admin=admin):
+        return False
+    status, payload = _request('PUT', _layout_url(ll.name), data=to_dict(ll))
+    if status == 404:
+        return False
+    if status not in (200, 204):
+        raise RuntimeError(f'layout api update failed: {status} {payload}')
+    _invalidate()
+    return True
+
+
 def remove(name: str, *, id: int, admin: bool = False) -> bool:
-    status, payload = _request('DELETE', _layout_url(name), headers=_headers(user=id, admin=admin))
+    ll = get(name)
+    if ll is None:
+        return False
+    if not _owned(ll, id=id, admin=admin):
+        return False
+    status, payload = _request('DELETE', _layout_url(name))
     if status in (404, 403):
         return False
     if status not in (200, 204):
