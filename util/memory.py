@@ -19,8 +19,23 @@ def _invalidate():
     _all_cache = None
 
 
+def _write_token() -> str:
+    token = os.environ.get('LAYOUTAPI_TOKEN', '').strip()
+    if token:
+        return token
+    path = os.environ.get('LAYOUTAPI_CLIENT_TOKEN_FILE', 'layoutapi_token.txt')
+    try:
+        with open(path, encoding='utf-8') as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        return ''
+
+
 def _headers(*, user: int | None = None, admin: bool = False) -> dict[str, str]:
     headers = {'Accept': 'application/json', 'Content-Type': 'application/json'}
+    token = _write_token()
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
     if user is not None:
         headers['X-User-Id'] = str(user)
     if admin:

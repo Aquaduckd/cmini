@@ -4,6 +4,7 @@ minigames/
 statcache/
 
 token.txt
+layoutapi_token.txt
 openai.txt
 suggestions.txt
 pat.txt
