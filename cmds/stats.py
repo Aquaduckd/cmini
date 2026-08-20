@@ -1,10 +1,11 @@
 import json
-import glob
 from collections import Counter
 from discord import Message
 
+from util import memory
+
 def exec(message: Message):
-    files = glob.glob('layouts/*.json')
+    files_count = memory.count()
 
     with open('authors.json', 'r') as f:
         authors = json.load(f)
@@ -21,7 +22,7 @@ def exec(message: Message):
     lines = [
         '```',
         '--- CMINI STATS ---',
-        f'Layouts: {len(files)}',
+        f'Layouts: {files_count}',
         f'Authors: {len(set(authors.values()))}',
         '',
         f'Most liked layouts:',

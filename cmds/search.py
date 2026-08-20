@@ -1,4 +1,3 @@
-import glob
 import random
 from jellyfish import jaro_winkler_similarity as jw
 from discord import Message, ChannelType
@@ -48,8 +47,8 @@ def exec(message: Message):
     # Only filter by name
     if not sfb:
         res: list[str] = []
-        for file in glob.glob('layouts/*.json'):
-            name = memory.parse_file(file).name
+        for item in memory.summaries():
+            name = item['name']
             if is_similar(filter_name, name):
                 res.append(name)
         output = return_message(res, is_dm)
@@ -66,8 +65,7 @@ def exec(message: Message):
             sfb_fingers |= finger_set
 
     res: list[str] = []
-    for file in glob.glob('layouts/*.json'):
-        ll = memory.parse_file(file)
+    for ll in memory.all_layouts():
 
         if not all(x in ll.keys for x in sfb):
             continue

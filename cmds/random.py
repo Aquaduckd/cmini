@@ -1,5 +1,3 @@
-import json
-import glob
 import random
 from discord import Message
 
@@ -8,8 +6,6 @@ from util import layout, memory
 RESTRICTED = False
 
 def exec(message: Message):
-    files = glob.glob('layouts/*.json')
-    file = random.choice(files)
-
-    ll = memory.parse_file(file)
+    names = memory.ids()
+    ll = memory.get(random.choice(names))
     return layout.to_string(ll, id=message.author.id)

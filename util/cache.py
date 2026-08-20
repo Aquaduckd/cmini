@@ -18,7 +18,7 @@ def cache_get(name: str) -> dict | None:
 
 
 def layout_get(name: str):
-    return memory.parse_file(f"layouts/{name}.json")
+    return memory.get(name)
 
 
 def cache_fill(ll: Layout, data: dict | None, corpus: str) -> dict[str, dict]:
@@ -59,10 +59,11 @@ def get(name: str, corpus: str):
     return data[corpus]
 
 
-def cache_files(file_chunks: list[str]):
-    for file in file_chunks:
-        name = os.path.splitext(file)[0]
-        ll = memory.parse_file(f"layouts/{name}.json")
+def cache_files(names: list[str]):
+    for name in names:
+        ll = memory.get(name)
+        if ll is None:
+            continue
         data = cache_get(name)
 
         for corpus_file in os.scandir('corpora'):
@@ -83,16 +84,15 @@ def timing(func):
 
 @timing
 def cache_main_new():
-    files = os.listdir('layouts')
+    names = memory.ids()
     num_processes = mp.cpu_count()
 
     with mp.Pool(processes=num_processes) as pool:
-        pool.map(cache_files, [files[i::num_processes] for i in range(num_processes)])
+        pool.map(cache_files, [names[i::num_processes] for i in range(num_processes)])
 
 @timing
 def cache_main_original():
-    files = os.listdir('layouts')
-    cache_files(files)
+    cache_files(memory.ids())
 
 if __name__ == "__main__":
     import sys

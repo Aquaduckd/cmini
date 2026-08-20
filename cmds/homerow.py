@@ -1,4 +1,3 @@
-import glob
 import json
 import random
 import re
@@ -9,8 +8,7 @@ from util import parser, memory
 def exec(message: Message):
     row = ''.join(parser.get_args(message))
     lines = []
-    for file in glob.glob('layouts/*.json'):
-        ll = memory.parse_file(file)
+    for ll in memory.all_layouts():
 
         keys = sorted(ll.keys.items(), key=lambda k: (k[1].row, k[1].col))
         homerow = ''.join(k for k,v in keys if v.row == 1)

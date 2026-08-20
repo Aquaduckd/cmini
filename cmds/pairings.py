@@ -1,4 +1,3 @@
-import glob
 import json
 from collections import Counter
 from discord import Message
@@ -17,8 +16,7 @@ def exec(message: Message):
         return 'Error: please enter one letter only.'
 
     counts = Counter()
-    for file in glob.glob('layouts/*.json'):
-        ll = memory.parse_file(file)
+    for ll in memory.all_layouts():
 
         if not arg in ll.keys:
             continue

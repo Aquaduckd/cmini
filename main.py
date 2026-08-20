@@ -78,7 +78,7 @@ async def on_message(message: discord.Message):
 
     # Trigger only
     if not command:
-        reply = 'Try `!cmini help`'
+        reply = 'Try `!dmini help`'
     elif command in ["gh", "github"]:
         reply = "<https://github.com/Apsu/cmini>"
     elif command == "akl":

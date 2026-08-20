@@ -1,4 +1,3 @@
-import glob
 import random
 import json
 from discord import Message, ChannelType
@@ -81,8 +80,7 @@ def exec(message: Message):
     if all(not arg for arg in kwargs.values()):
         return f'```\n{use()}\n```'
 
-    for file in glob.glob('layouts/*.json'):
-        ll = memory.parse_file(file)
+    for ll in memory.all_layouts():
 
         if filter_vowel:
             # If the layout has all the vowels.

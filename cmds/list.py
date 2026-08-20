@@ -1,5 +1,3 @@
-import json
-import glob
 from discord import Message
 
 from util import authors, parser, memory
@@ -20,12 +18,7 @@ def exec(message: Message):
     lines = [f'{name}\'s layouts:']
     lines.append('```')
 
-    layouts = []
-    for file in glob.glob('layouts/*.json'):
-        ll = memory.parse_file(file)
-
-        if ll.user == id:
-            layouts.append(ll.name)
+    layouts = [item['name'] for item in memory.summaries(user=id)]
 
     sorted_layouts = list(sorted(layouts))
 
