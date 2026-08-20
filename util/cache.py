@@ -37,6 +37,7 @@ def cache_fill(ll: Layout, data: dict | None, corpus: str) -> dict[str, dict]:
 
 
 def update(name: str, data: dict):
+    os.makedirs('cache', exist_ok=True)
     with open(f'cache/{name}.json', "w", encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False)
 

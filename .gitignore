@@ -2,6 +2,7 @@ __pycache__/
 openai/
 minigames/
 statcache/
+cache/
 
 token.txt
 layoutapi_token.txt

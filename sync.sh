@@ -3,7 +3,7 @@
 export GITHUB_TOKEN="$(<github-pat.txt)"
 
 cd ~/workspace/cmini
-git add -A authors.json corpora.json likes.json links.json cache
+git add -A authors.json corpora.json likes.json links.json
 git commit -m "Sync data"
 git pull
 git push
